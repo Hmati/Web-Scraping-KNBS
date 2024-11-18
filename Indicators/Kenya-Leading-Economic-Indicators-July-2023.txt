@@ -1,0 +1,4992 @@
+Leading Economic Indicators
+Inflation rate
+Lower Income Upper Income Kenya Inflation rate
+12.0
+10.2 10.4
+9.8
+10.0 9.2 9.2 9.1 9.2 9.0
+8.7
+9.6 7.9
+8.0 8.3 8.5 9.2 9.5 9.1 9.0 9.2 9.2 7.7 87..08 77..97
+7.3
+6.7
+7.1
+6.0 6.9 7.1 6.9 6.9 7.1 6.7 5.6 5.8 5.5 5.4
+6.0 6.2
+4.0
+2.0
+-
+Jul-22 Aug-22 Sep-22 Oct-22 Nov-22 Dec-22 Jan-23 Feb-23 Mar-23 Apr-23 May-23 Jun-23 Jul-23
+JULY 2023
+2Page Number
+List of Tables
+Table 1(a): Consumer Price Indices 8
+Table 1(b): Inflation Rates 9
+Table 2: Mean Monthly Foreign Exchange Rates of Kenyan Shilling against Selected Major Currencies 10
+Table 3: Interest rate (%) 11
+Table 4: Nairobi Securities Exchange 20 Share Index 12
+Table 5(a): Money Supply 13
+Table 5(b): Gross Foreign Exchange Reserves 14
+Table 6: Coffee Sales and Prices 15
+Table 7: Tea Production and Auction Prices 16
+Table 8: Cane Deliveries 17
+Table 9(a): Average Monthly Retail Prices for Dry Maize, 2022 (per Kg) 18
+Table 9(b): Average Monthly Retail Prices for Dry Maize, 2023 (per Kg) 19
+Table 9(C): Average Monthly Retail Prices for Dry Beans, 2022 (per Kg) 20
+Table 9(d): Average Monthly Retail Prices for Dry Beans, 2023 (per Kg) 21
+Table 10: Exports of Coffee and Tea 22
+Table 11: Monthly Exports of Fresh Horticultural Produce 22
+Table 12: External Trade 23
+Table 13(a): Major Destinations of Domestic Exports 23
+Table 13(b): Domestic Exports by Broad Economic Category 24
+Table 14 (a) Major Origins of Imports 24
+Table 14(b): Imports by Broad Economic Category 25
+Table 14 (c): Mobile Money Transactions 25
+Table 14(d): International trade in ICT 26
+Table 15(a): Local Electricity Generation by Source 27
+Table 15(b): Generation and Consumption of Electricity 28
+Table 15(c): Consumption of Petroleum Fuels 29
+Table 15(d): Average Retail Prices for Selected Fuel Products within Nairobi 30
+Table 15(e): Average Retail Prices for Selected Fuels in Kenya (National Average Retail Prices) 31
+Table 15(f): Opec Reference basket and Murban Crude Oil Prices 32
+Table 16: Value of Building Plans Approved for Nairobi City County 32
+Table 17(a): Domestic Production of Sugar 33
+Table 17(b): Production of Soft Drinks 33
+Table 17(c): Production of Assembled Vehicles 34
+Table 17(d): Production of Galvanized Sheets 34
+Table 17(e): Cement Production and Consumption 35
+Table 17(f): Milk Intakes in the Formal Sector 35
+Table 18: Visitor Arrivals through JKIA and MIA 36
+Table 19(a): Jomo Kenyatta international Airport-Embarked Passengers by Port of Destination 38
+Table 19(b): Jomo Kenyatta international Airport- Landed Passengers by Port of Origin 39
+Table 19(c): New Vehicle Registration 40
+Table 19(d): Passenger and Cargo Movement on the Standard Gauge Railway 40
+Table 19(e): Monthly Cargo Throughput at the port of Mombasa 41
+Table 19(f): Metre Gauge Railway (MGR) passenger and revenue 41
+iLIST OF FIGURES
+Page Number
+Figure 1: Inflation Rates 2022-2023 ................................................................................................................... 9
+Figure 2: Mean Monthly Foreign Exchange rate of Kenya Shillings against Selected Major Currencies .................. 10
+Figure 3: Nairobi Securities Exchange 20 Share Index ....................................................................................... 12
+Figure 4: Coffee Sales at the Nairobi Coffee Exchange ...................................................................................... 15
+Figure 5: Tea Production ................................................................................................................................. 16
+Figure 6: Cane Deliveries ................................................................................................................................ 17
+Figure 7: Electricity Generation by Source ........................................................................................................ 27
+Figure 8: Average Prices for Liquefied Petroleum Gas in Kenya per 13 Kg cylinder .............................................. 31
+Figure 9: Milk Intake in the Formal Sector ......................................................................................................... 36
+Figure 10: Visitor Arrivals through JKIA and MIA ............................................................................................... 37
+Abbreviations/Acronyms list
+AGO Light diesel oil (Automotive Gas Oil)
+BEC Broad Economic Category
+CPI Consumer Price Index
+IDO Heavy diesel oil (Industrial Diesel Oil)
+JKIA Jomo Kenyatta International Airport
+KSh Kenya Shilling
+M3 Broad money supply
+MIA Mombasa International Airport
+NBFI Non-Bank Financial Institutions
+NSE Nairobi Securities Exchange
+OPEC Organisation of the Petroleum Exporting Countries
+iiKEY HIGHLIGHTS
+The Monthly Leading Economic Indicators report highlights changes in Consumer Price Indices, inflation,
+interest rates and exchange rates. In addition, the report details changes in selected indicators of interna-
+tional trade, agriculture, energy, manufacturing, building and construction, tourism and transport.
+MACROECONOMIC INDICATORS
+The Consumer Price Index (CPI) increased by 0.1 per cent from an index of 134.01 in June 2023
+to 134.15 in July 2023 as presented in Table 1(a). The overall inflation as measured by the Con-
+sumer Price Indices decreased from 7.9 per cent to 7.3 per cent over the same period as shown
+in Table 1(b).
+Table 2 presents mean monthly foreign exchange rates of Kenyan Shilling against selected major
+trading currencies. In July 2023, the Kenyan Shilling depreciated against all major trading curren-
+cies except against the Tanzanian Shilling.
+The average yield rate for the 91-day Treasury Bills, which is a benchmark for the general trend
+of interest rates rose from 11.49 per cent in June 2023 to 12.12 per cent in July 2023. During the
+same period the average deposit rate increased from 7.70 per cent to 10.24 per cent. The Cen-
+tral Bank Rate (CBR) was 10.50 in July 2023.The Interbank rates rose from 9.37 per cent in May
+2023 to 9.55 per cent in June 2023 as shown in Table 3.
+The Nairobi Securities Exchange (NSE) 20 share index increased from 1,575 points in June 2023
+to 1,577 points in July 2023. During the same period, the total number of shares traded increased
+by 97.6 per cent from 211 million to 417 million. The number of equity transactions slightly de-
+creased from 23,662 in June to 23,569 in July 2023. Equities Market turnover increased by 86.7
+per cent from KSh 4.08 billion in June 2023 to KSh 7.62 billion in July 2023, as presented in Ta-
+ble 4.
+Table 5(a) presents Money Supply statistics. Broad money supply (M3), a key indicator for mone-
+tary policy formulation, decreased from KSh 5,568.05 billion in June 2023 to KSh 5,148.50 billion
+in July 2023. The value of Gross Foreign Exchange Reserves increased from KSh 1,859.64 bil-
+lion in June 2023 to KSh 1,946.75 billion in July 2023. During the same period, the value of Net
+Foreign Exchange Reserves increased from KSh 594.10 billion to KSh 628.93 billion as present-
+ed in Table 5(b).
+3AGRICULTURE
+Data on coffee sales and prices are presented in Table 6. There was a significant drop in total
+coffee sold in the month of May. The quantity of produced tea decreased from 57,885.91 MT in
+May 2023 to 48,127.89 MT in June 2023.The average auction price for Kenya tea in the month of
+June 2023 was lower at KSh 291.87 per Kg against KSh 300.45 per Kg in May 2023, as present-
+ed in Table 7.
+The quantity of cane deliveries decreased from 436.69 thousand metric tonnes in June 2023 to
+395.23 thousand metric tonnes in July 2023,as presented in Table 8.
+The average monthly retail market prices for a one Kg of maize decreased from KSh 86.3 in June
+2023 to KSh 84.6 in July 2023 as presented in Table 9(b). The average monthly retail market
+prices for a one Kg of beans decreased from KSh 181.8 in June 2023 to KSh 174.5 in July 2023
+as shown in Table 9(d).
+Quantity of coffee exported decreased from 7,078.27 MT in June 2023 to 6,174.90 MT in July
+2023. Additionally, its value decreased from KSh 5.0 billion to KSh 4.19 billion over the same pe-
+riod as shown in Table 10. The quantity of tea exported decreased from 45,317.56 MT in June
+2023 to 39,943.62 MT in July 2023. In addition, its value decreased from KSh 15.45 billion to KSh
+12.91 billion over the same period as presented in Table 10.
+Statistics on monthly export of fresh horticultural produce are presented in Table 11. The quantity
+of Cut Flowers exported increased from 8,931.54 MT in June 2023 to 11,715.32 MT in July 2023.
+Additionally, the value of Cut Flowers exported increased from KSh 5,186.30 million to KSh
+6,926.53 million during the same period. The quantity of Fruits exported increased from
+19,518.58 MT in June 2023 to 22,916.07 MT in July 2023. The value of fruits exported increased
+from KSh 3,009.73 million to KSh 3,702.47 million during the same period. The quantity of Vege-
+tables exported was 5,254.93 MT, while their value was KSh 1,565.52 million in July 2023.
+4INTERNATIONAL TRADE AND ICT
+Table 12 presents monthly statistics
+on external trade. Volume of trade
+decreased from KSh 296.0 billion in
+June 2023 to KSh 274.27 billion in
+July 2023.The value of total exports
+decreased from KSh 85.83 billion in
+June 2023 to KSh 82.58 billion in
+July 2023.
+The value of imports decreased from KSh 210.17 billion in June 2023 to KSh 191.69 billion in
+July 2023. During the same period, the value of home use imports decreased from KSh 159.33
+billion to KSh 140.53 billion.
+In July 2023, Kenya major trading partner countries for exports were Uganda with a value of
+KSh 10.27 billion followed by Netherlands with a value of KSh 5.52 billion, as presented in Ta-
+ble 13(a).Domestic exports by Broad Economic Category indicated that food and beverages
+was the main export category in July 2023 accounting for 43.13 per cent of the domestic ex-
+ports. Major origins of imports as presented in Table 14(a) indicates that China was the main
+import partner with a value of KSh 40.05 billion followed by United Arabs Emirates with a value
+of KSh 32.17 billion in July 2023.Imports by Broad Economic Category indicate that non-food
+industrial supplies were the main import category in July 2023 with a share of 33.69 per cent of
+the total imports in July 2023.
+The total number of mobile money transactions increased from 197.42 million in June 2023 to
+202.85 million in July 2023. Similarly, the value of the transactions increased from KSh 643.76
+billion to 684.64 billion during the same period. The number of Mobile Money Agents increased
+from 328,543 in June 2023 to 330,912 in July 2023. During the same period, total registered
+mobile money subscriptions increased from 76.99 million to 77.21 million as presented in Table
+14(c), As shown in Table 14(d), the value of imports for telecommunication equipment de-
+creased from KSh 1.76 billion in May 2023 to KSh 1.50 billion in June 2023.
+5ENERGY AND MANUFACTURING
+Monthly electricity statistics are presented in Tables 15(a) and 15(b). Total local electricity gen-
+eration increased from 1,035.36 million KWh in June 2023 to 1,115.46 million KWh in July
+2023. Total electricity consumption increased from 850.53 million KWh in June 2023 to 881.01
+million KWh in July 2023.
+The national average domestic retail oil prices of motor gasoline premium, light diesel and ker-
+osene was KSh 195.32, KSh 180.42 and KSh 170.25 per litre respectively in July 2023 as
+shown in Table 15(e). Charcoal prices averaged KSh 70.95 per Kg while the price of a 13-Kg
+cylinder of gas averaged KSh 2,787.83 during the same period. In the international market, the
+price of the OPEC crude oil basket increased from US Dollars 75.19 per barrel in June 2023 to
+US Dollars 81.06 per barrel in July 2023 as shown in Table 15(f).
+Tables 17(a) to 17(f) present various monthly manufacturing statistics. Sugar production de-
+creased cent from 34,373 MT in June 2023 to 33,328 MT in July 2023.Production of soft drinks
+increased from 48,988 thousand litres in February 2023 to 55,405 thousand litres in March
+2023.Production of assembled vehicles increased from 972 units in April 2023 to 1,235 units in
+May 2023.Production of Galvanized sheets increased from 18,454 metric tonnes in February
+2023 to 19,090 metric tonnes in March 2023.
+The quantity of cement produced increased from 769,259 MT in April 2023 to 818,697 MT in
+May 2023. Additionally, consumption of cement increased from 742,272 MT to 777,697 MT
+during the same period. Milk intake in the formal sector decreased from 73.78 million litres in
+May 2023 to 71.69 million litres in June 2023.
+6TOURISM AND TRANSPORT
+The total number of visitors arriving through Jomo Kenyatta (JKIA) and Moi International Air-
+ports (MIA) increased from 132,297 persons in June 2023 to 158,100 persons in July 2023, as
+shown in Table 18.
+Table 19(a) shows international passenger air traffic departures through Jomo Kenyatta Inter-
+national Airport. The number of international departures increased by 8.6 per cent from
+230,511 in May 2023 to 250,343 in June 2023.Table 19(b) presents international passenger air
+traffic arrivals through Jomo Kenyatta International Airport. The number of passengers in-
+creased by 14.1 per cent from 231,021 in May 2023 to 263,534 in June 2023.
+Table 19(c) presents the number of newly registered motor vehicles by body type. The number
+of newly registered motor vehicles rose by 13.4 per cent from 11,419 in April 2023 to 12,945 in
+May 2023.
+The number of passengers transported via Standard Gauge Railway (SGR) decreased by 7.2
+per cent from 214,050 in May 2023 to 198,564 in June 2023. The drop in passengers resulted
+in a 6.9 per cent decline in revenue generated to KSh 218.7 million in June. The volume of car-
+go transported by SGR declined slightly by 0.2 per cent while the revenue generated during the
+period under review decreased by 11.1 per cent to KSh 1,139.0 million in June as shown in Ta-
+ble 19(d).Table 19(e) presents Mombasa Port throughput. The volume of cargo through the
+port declined by 2.5 per cent from 2,869.3 thousand tonnes in June to 2,796.5 thousand
+tonnnes in July 2023. The number of passengers transported through Metre Gauge Railway
+(MGR) declined by 5.4 per cent from 308,044 in May to 291,322 in June 2023. Revenue gener-
+ated via MGR dropped marginally from KSh 15.1 million per cent in May to KSh 14.9 million in
+June 2023 as shown in Table 19(f).
+7Table 1(a): Consumer Price Indices
+8
+B a s e : F e b r u a r y 2 0 1 9 = 1 0 0
+N a iro b i
+G ro u p M id d le N a iro b i
+L o w e r In c o m e U p p e r In c o m e R e s t o f U rb a n A re a s K e n y a C P IIn
+c o m e C o m b in e d
+2 0 2 2
+J a n u a ry ...... 1 2 0 .0 4 1 1 0 .4 4 1 1 0 .1 6 1 1 5 .7 9 1 2 0 .6 7 1 1 8 .6 4
+F e b ru a ry .... 1 2 0 .7 6 1 1 0 .8 2 1 1 0 .4 7 1 1 6 .3 5 1 2 1 .1 1 1 1 9 .1 3
+M a rc h ......... 1 2 1 .9 4 1 1 1 .4 6 1 1 1 .3 0 1 1 7 .3 2 1 2 2 .1 5 1 2 0 .1 4
+A p ril............ 1 2 3 .9 4 1 1 2 .9 0 1 1 2 .7 8 1 1 9 .0 7 1 2 4 .3 8 1 2 2 .1 7
+M a y ............ 1 2 4 .8 9 1 1 3 .5 0 1 1 3 .5 7 1 1 9 .8 9 1 2 5 .4 2 1 2 3 .1 2
+J u n e ............ 1 2 6 .0 2 1 1 4 .6 2 1 1 4 .3 3 1 2 0 .9 8 1 2 6 .5 2 1 2 4 .2 2
+J u ly ............. 1 2 7 .0 2 1 1 5 .4 4 1 1 4 .9 3 1 2 1 .8 7 1 2 7 .3 1 1 2 5 .0 5
+A u g u s t......... 1 2 7 .6 0 1 1 5 .9 2 1 1 5 .2 6 1 2 2 .3 9 1 2 7 .8 4 1 2 5 .5 8
+S e p te m b e r.. 1 2 8 .5 8 1 1 7 .2 9 1 1 6 .8 7 1 2 3 .5 7 1 2 8 .9 7 1 2 6 .7 3
+O c to b e r ...... 1 2 9 .5 6 1 1 8 .0 4 1 1 7 .1 6 1 2 4 .3 9 1 3 0 .3 3 1 2 7 .8 6
+N o v e m b e r... 1 3 0 .0 5 1 1 8 .2 3 1 1 7 .2 5 1 2 4 .7 4 1 3 0 .8 5 1 2 8 .3 1
+D e c e m b e r .. 1 3 0 .5 9 1 1 8 .6 3 1 1 7 .6 4 1 2 5 .2 2 1 3 1 .6 8 1 2 8 .9 9
+2 0 2 3
+J a n u a ry ...... 1 3 0 .9 8 1 1 8 .9 3 1 1 7 .9 3 1 2 5 .5 7 1 3 1 .9 4 1 2 9 .2 9
+F e b ru a ry .... 1 3 1 .9 2 1 1 9 .3 8 1 1 8 .3 2 1 2 6 .2 9 1 3 2 .8 6 1 3 0 .1 3
+M a rc h ......... 1 3 2 .9 7 1 1 9 .9 0 1 1 8 .8 1 1 2 7 .1 0 1 3 4 .0 9 1 3 1 .1 8
+A p ril............ 1 3 3 .4 9 1 2 0 .7 6 1 1 9 .0 7 1 2 7 .7 0 1 3 4 .7 7 1 3 1 .8 3
+M a y ............ 1 3 4 .6 4 1 2 1 .4 7 1 2 0 .1 0 1 2 8 .6 9 1 3 6 .0 8 1 3 3 .0 1
+J u n e ............ 1 3 5 .6 7 1 2 2 .2 7 1 2 0 .6 2 1 2 9 .5 9 1 3 7 .1 6 1 3 4 .0 1
+J u ly ............. 1 3 5 .5 7 1 2 2 .3 7 1 2 1 .1 1 1 2 9 .6 3 1 3 7 .3 7 1 3 4 .1 5
+N o te s
+1 .N a iro b i L o w e r In c o m e G ro u p c o n s titu te o f H o u s e h o ld s s p e n d in g K S h . 4 6 ,3 5 5 o r le s s p e r m o n th in F e b ru a ry 2 0 1 5 (th e y a re 7 0 .8 9 % o f th e h o u s e h o ld s ).
+2 .N a iro b i M id d le -In c o m e G ro u p c o n s itu te o f H o u s e h o ld s s p e n d in g b e tw e e n K S h . 4 6 ,3 5 6 u p to a n d in c lu d in g K S h . 1 8 4 ,3 9 4 p e r m o n th in F e b ru a ry 2 0 1 5
+(th e y a re 2 5 .5 8 % o f th e h o u s e h o ld s ).
+3 .N a iro b i U p p e r In c o m e G ro u p c o n s itu te o f H o u s e h o ld s s p e n d in g a b o v e K S h . 1 8 4 ,3 9 5 p e r m o n th in F e b ru a ry 2 0 1 5 (th e y a re 3 .5 3 % o f th e h o u s e h o ld s ).Table 1(b): Inflation Rates
+Inflation Rates
+Period Nairobi
+Lower Middle Upper Rest of
+Combined Kenya
+Income Income Income Urban Areas
+2022
+January.......... 5.65 3.99 4.29 4.98 5.67 5.39
+February........ 5.41 3.81 3.67 4.72 5.34 5.08
+March............. 5.90 4.05 3.77 5.09 5.88 5.56
+April................. 6.74 4.89 5.04 5.98 6.81 6.47
+May................. 7.32 5.34 5.30 6.48 7.50 7.08
+June................ 8.19 6.25 5.71 7.31 8.32 7.91
+July.................. 8.75 6.27 6.01 7.67 8.76 8.32
+August............ 9.19 6.47 6.20 8.01 8.88 8.53
+September.... 9.75 7.34 6.92 8.69 9.51 9.18
+October ......... 10.17 7.88 7.07 9.12 9.92 9.59
+November ..... 10.36 7.78 6.90 9.17 9.68 9.48
+December .... 9.23 7.49 6.86 8.43 9.50 9.06
+2023
+January.......... 9.11 7.69 7.05 8.44 9.35 8.98
+February........ 9.25 7.73 7.10 8.54 9.70 9.23
+March............. 9.04 7.57 6.75 8.34 9.77 9.19
+April................. 7.71 6.96 5.57 7.24 8.35 7.90
+May................. 7.81 7.02 5.75 7.34 8.50 8.03
+June................ 7.66 6.67 5.50 7.12 8.41 7.88
+July.................. 6.73 6.00 5.38 6.36 7.91 7.28
+Figure 1: Inflation Rates: 2022 - 2023
+9Table 2: Mean Monthly Foreign Exchange Rates of Kenyan Shilling against Selected Major
+Currencies
+10
+1
+1
+1
+1
+1
+U
+T
+S
+Y e a r
+C u r r e n c y
+U S D o lla r ............
+P o u n d S te r lin g ...
+E u r o ....................
+0 0 J a p a n e s e Y e n .
+S A R a n d .............
+S H S /K E S ............
+S H S /K E S .............
+o u rc e : C e n tra l B a n k o
+1 1
+1 4
+1 2
+8
+3
+1
+f K
+8
+1
+0
+6
+7
+2
+9
+e
+J u l
+.3 2
+.8 5
+.7 2
+.5 7
+.0 3
+.0 4
+.7 1
+n y a
+1
+1
+1
+1
+4
+2
+8
+3
+1
+A
+9
+3
+1
+8
+7
+2
+9
+u
+.4
+.4
+.0
+.5
+.1
+.0
+.5
+g
+5
+6
+3
+1
+6
+8
+2
+1
+1
+1
+2
+3
+1
+8
+3
+1
+S
+0
+6
+9
+4
+6
+1
+9
+2 0
+e p
+.4 2
+.6 6
+.3 1
+.2 6
+.8 7
+.7 6
+.3 6
+2 2
+1
+1
+1
+2
+3
+1
+8
+3
+1
+O c t
+1 .0 3
+6 .6 0
+9 .0 3
+2 .3 2
+6 .6 9
+1 .6 1
+9 .2 7
+1
+1
+1
+2
+4
+2
+8
+3
+1
+N
+1
+2
+4
+5
+6
+0
+9
+o
+.9
+.9
+.1
+.6
+.9
+.8
+.1
+v
+0
+7
+7
+0
+6
+5
+3
+1
+1
+1
+2
+4
+3
+9
+3
+1
+D
+2
+9
+0
+0
+7
+0
+8
+e
+.9
+.8
+.0
+.9
+.1
+.0
+.9
+c
+3
+0
+0
+1
+2
+1
+8
+1
+1
+1
+2
+5
+3
+9
+2
+1
+J a
+3 .9
+1 .3
+3 .4
+5 .0
+7 .2
+9 .7
+8 .8
+n
+3
+3
+3
+5
+5
+9
+5
+1
+1
+1
+2
+5
+3
+9
+2
+1
+F
+5
+1
+4
+4
+7
+9
+8
+e
+.4
+.8
+.5
+.6
+.0
+.3
+.6
+b
+5
+7
+3
+6
+3
+6
+4
+1
+1
+1
+2
+5
+3
+9
+2
+1
+M a r
+9 .7 4
+7 .3 5
+8 .7 9
+6 .9 5
+7 .0 9
+8 .8 4
+8 .0 4
+2
+1
+1
+1
+1
+0
+3
+6
+4
+0
+2
+1
+2 3
+A p
+4 .4
+7 .2
+7 .3
+0 .7
+7 .4
+7 .8
+7 .4
+r
+0
+6
+9
+1
+0
+7
+5
+1
+1
+1
+1
+3
+7
+4
+0
+2
+1
+M
+7
+1
+9
+0
+7
+7
+7
+a
+.2
+.3
+.2
+.1
+.2
+.1
+.1
+y
+6
+5
+2
+4
+2
+8
+8
+1
+1
+1
+3
+7
+5
+9
+2
+1
+J
+9
+6
+1
+9
+7
+6
+7
+u
+.7
+.2
+.3
+.2
+.4
+.5
+.0
+n
+3
+7
+7
+0
+6
+4
+8
+1
+1
+1
+1
+4
+8
+5
+0
+2
+1
+1
+2
+6
+0
+7
+5
+7
+J u
+.4
+.0
+.2
+.1
+.7
+.9
+.2
+l
+5
+6
+9
+6
+6
+3
+6
+Figure 2: Mean Monthly Foreign Exchange Rates of Kenya Shillings against Selected Major
+CurrenciesTable 3: Interest rate (%)
+Rates for
+Commercial
+Average Yield
+Central Banks Average Inter – Savings
+Rates 91 – Overdraft
+Month/Year Bank Loans and Deposit Bank (Commercial
+Days Rates
+Rate Advances Rate Rates Banks Rates)
+Treasury Bills
+(Weighted
+Average)
+2022
+January 7.32 7.00 12.12 11.57 6.53 4.36 2.55
+February 7.28 7.00 12.17 11.63 6.61 4.73 2.56
+March 7.25 7.00 12.15 11.50 6.50 4.72 2.48
+April 7.39 7.00 12.20 11.69 6.58 4.67 2.56
+May 7.65 7.50 12.22 11.76 6.59 4.60 2.52
+June 7.90 7.50 12.27 11.86 6.62 5.06 2.50
+July 8.21 7.50 12.35 12.02 6.74 5.50 2.94
+August 8.58 7.50 12.43 12.10 6.93 5.35 3.46
+September 8.92 8.25 12.41 11.99 6.82 4.36 3.44
+October 9.06 8.25 12.39 11.96 7.01 5.44 3.46
+November 9.19 8.75 12.64 12.16 7.11 4.61 3.50
+December 9.33 8.75 12.67 12.22 7.17 5.39 3.56
+2023
+January 9.44 8.75 12.77 12.34 7.47 5.89 3 .60
+February 9.62 8.75 13.06 12.62 7.54 6.42 3 .58
+March 9.76 9.50 13.09 12.69 7.60 7.05 3 .55
+April 10.04 9.50 13.11 12.71 7.54 8.55 3 .55
+May 10.47 9.50 13.21 12.64 7.69 9.37 3 .55
+June 1 1.49 1 0.50 1 3.31 1 2.83 7 .70 9 .55 3 .48
+July 1 2.12 1 0.50 .. .. 1 0.24 .. ..
+Source: Central Bank of Kenya
+.. Data not available
+11Table 4: Nairobi Securities Exchange 20 Share Index
+12
+2JFMAMJJASON
+D
+2J
+F
+M
+AMJ
+J
+SB
+0 2 2a
+n u a r y ...................e
+b r u a r y .................a
+r c h ......................p
+r il.........................a
+y .........................u
+n e ........................u
+ly .........................u
+g u s t ....................e
+p te m b e r ...............c
+to b e r ...................o
+v e m b e r ...............
+e c e m b e r ...............
+0 2 3a
+n u a r y ...................
+e b r u a r y .................
+a r c h ......................
+p r il.........................a
+y .........................u
+n e ........................
+u ly .........................
+o u r c e : N a ir o b i S e c ua
+s e J a n 1 9 6 6 = 1 0 0
+N uT
+r a
+r itie
+mn
+s
+bs
+E
+e ra
+c
+2 12
+22
+41
+82
+42
+62
+32
+22
+72
+32
+1
+1 8
+2 4
+1 9
+2 9
+2 02
+92
+3
+2 3
+x c
+o f E qt
+io n s
+,0 9 7,0
+1 0,7
+7 8,4
+5 2,3
+0 2,3
+4 5,1
+9 5,5
+8 4,4
+3 9,4
+5 5,0
+3 2
+,2 4 7
+,6 7 5
+,0 6 8
+,3 6 2
+,9 8 3,7
+2 9,6
+6 2
+,5 6 9
+h a n g e
+u
+L
+it y
+im ite
+S
+d
+h
+Na ur
+e
+ms
+22213322322
+1
+3
+1
+5
+132
+4
+b
+(
+28592560542
+6
+3
+7
+8
+951
+1
+eM
+11130848128
+5
+3
+0
+4
+951
+7
+r o fillio
+n )
+V a( luM e o f S hillio
+n K S
+8 ,2 4 89
+,9 7 29
+,6 4 15
+,8 5 11
+0 ,7 7 89
+,6 0 87
+,9 9 95
+,3 4 39
+,3 9 56
+,0 1 76
+,5 0 2
+4 ,9 3 9
+7 ,8 1 4
+4 ,6 0 6
+3 2 ,3 9 6
+4 ,2 1 96
+,0 9 34
+,0 8 3
+7 ,6 2 3
+a rh e) s N S E 2 0I
+n d
+1 ,81
+,81
+,81
+,81
+,61
+,61
+,71
+,71
+,71
+,61
+,6
+1 ,6
+1 ,6
+1 ,6
+1 ,6
+1 ,51
+,51
+,5
+1 ,5
+Se
+x
+8 98
+74
+70
+18
+21
+30
+15
+11
+87
+83
+8
+7 6
+5 7
+4 7
+2 2
+7 94
+77
+5
+7 7
+h a r e
+Figure 3: Nairobi Securities Exchange 20 Share IndexTable 5(a): Money Supply
+13
+A s a t e n d o f F o r e ig n c u r r e n c y
+M o n e y ( M 1 ) * Q u a s i – M o n e y * * T o t a l ( M 2 ) * * *m
+o n t h d e p o s it s
+2 0 2 2
+J a n u a r y 1 ,7 6 8 ,3 1 6 2 ,0 8 1 ,5 3 7 3 ,8 4 9 ,8 5 3 7 9 4 ,4 1
+F e b r u a r y 1 ,8 0 9 ,2 4 2 2 ,0 8 4 ,0 5 9 3 ,8 9 3 ,3 0 1 8 0 4 ,9 9
+M a r c h 1 ,7 7 3 ,2 5 9 2 ,1 2 2 ,5 8 0 3 ,8 9 5 ,8 3 9 8 1 1 ,7 8
+A p r il 1 ,8 4 4 ,9 2 9 2 ,1 3 2 ,1 0 7 3 ,9 7 7 ,0 3 6 8 3 4 ,9 2
+M a y 1 ,8 4 1 ,1 0 7 2 ,1 3 8 ,3 2 6 3 ,9 7 9 ,4 3 3 8 2 9 ,2 9
+J u n e 1 ,8 8 4 ,5 6 0 2 ,1 5 6 ,3 4 3 4 ,0 4 0 ,9 0 3 8 9 2 ,4 0
+J u ly 1 ,9 8 8 ,3 7 1 2 ,1 0 3 ,7 8 2 4 ,0 9 2 ,1 5 3 9 0 4 ,9 6
+A u g u s t 1 ,8 8 4 ,7 8 9 2 ,1 5 9 ,1 0 2 4 ,0 4 3 ,8 9 1 8 9 6 ,1 8
+S e p te m b e r 1 ,8 9 3 ,5 6 9 2 ,1 5 4 ,8 1 0 4 ,0 4 8 ,3 7 8 8 7 8 ,3 6
+O c to b e r 1 ,8 9 1 ,0 3 7 2 ,1 3 8 ,7 7 5 4 ,0 2 9 ,8 1 2 9 0 1 ,1 1
+N o v e m b e r 1 ,8 7 9 ,3 8 1 2 ,1 6 3 ,4 3 6 4 ,0 4 2 ,8 1 7 9 2 4 ,1 1
+D e c e m b e r 1 ,9 4 6 ,4 0 5 2 ,1 7 3 ,6 1 7 4 ,1 2 0 ,0 2 2 9 2 2 ,3 9
+2 0 2 3
+J a n u a r y 1 ,9 2 4 ,0 5 7 2 ,2 0 7 ,1 2 7 4 ,1 3 1 ,1 8 4 9 4 6 ,4 8
+F e b r u a r y 2 ,0 7 8 ,2 9 0 2 ,0 4 0 ,0 0 0 4 ,1 1 8 ,2 8 9 9 8 3 ,9 5
+M a r c h 1 ,8 6 3 ,1 1 8 2 ,2 7 5 ,5 3 0 4 ,1 3 8 ,6 4 8 1 ,0 5 9 ,0 0
+A p r il 1 ,9 0 3 ,7 9 5 2 ,2 7 8 ,8 3 7 4 ,1 8 2 ,6 3 2 1 ,0 7 6 ,3 4
+M a y 1 ,9 0 1 ,8 0 8 2 ,3 1 5 ,9 4 5 4 ,2 1 7 ,7 5 3 1 ,0 9 2 ,1 6
+J u n e 2 ,0 7 2 ,8 1 4 2 ,3 0 9 ,0 5 2 4 ,3 8 1 ,8 6 6 1 ,1 8 6 ,1 8
+J u ly 2 ,1 3 6 ,2 4 9 1 ,7 6 3 ,8 7 9 3 ,9 0 0 ,1 2 8 1 ,2 4 8 ,3 7
+S o u rc e : C e n tra l B a n k o f K e n y a*
+C u rre n c y in c irc u la tio n le s s c a s h in b a n k s p lu s a ll d e m a n d d e p o s its e x c e p t th o s e o f N a tio n a l & C o u n ty
+fo re ig n c u rre n c y d e p o s its*
+* A ll o th e r d e p o s its in c o m m e rc ia l b a n k s , e x c e p t th o s e o f N a tio n a l g o v e rn m e n t.
+* * * B ro a d m o n e y (M 2 ) is th e s u m o f M 1 , Q u a s i m o n e y in B a n k s a n d n e t Q u a s i m o n e y in N B F Is ..
+* * * * B ro a d M o n e y (M 3 ) in c lu d e s M 2 a n d F o re ig n c u rre n c y d e p o s its
+M 2 = (M 1 + Q M -N B F Is )
+M 3 = M 2 + F C D
+1 p e rc e n ta g e o f M 3 fro m p re v io u s m o n th
+5
+7
+3
+0
+1
+4
+5
+8
+3
+5
+1
+7
+2
+0
+5
+1
+8
+9
+3
+g o
+B
+( M
+v e
+r o
+3
+rn
+a
+) *
+m
+d M o n
+* * *
+4 ,6 4
+4 ,6 9
+4 ,7 0
+4 ,8 1
+4 ,8 0
+4 ,9 3
+4 ,9 9
+4 ,9 4
+4 ,9 2
+4 ,9 3
+4 ,9 6
+5 ,0 4
+5 ,0 7
+5 ,1 0
+5 ,1 9
+5 ,2 5
+5 ,3 0
+5 ,5 6
+5 ,1 4
+e n t, B a n
+e
+4
+8
+7
+1
+8
+3
+7
+0
+6
+0
+6
+2
+7
+2
+7
+8
+9
+8
+8
+k
+y
+,2 6
+,2 9
+,6 2
+,9 5
+,7 2
+,3 0
+,1 1
+,0 8
+,7 4
+,9 2
+,9 2
+,4 1
+,6 6
+,2 3
+,6 5
+,9 7
+,9 2
+,0 5
+,5 0
+s , n
+8
+8
+3
+6
+4
+7
+8
+0
+1
+7
+8
+9
+7
+9
+3
+3
+1
+4
+1
+o n
+K
+%
+-re
+S h m illio n
+1 C h a n g e
+- 0 .9 6
+1 .1 6
+0 .2 0
+2 .2 2
+- 0 .0 7
+2 .5 9
+1 .2 9
+- 1 .1 4
+- 0 .2 7
+0 .0 8
+0 .7 3
+1 .5 2
+0 .7 0
+0 .4 8
+1 .8 7
+1 .1 8
+0 .9 7
+4 .8 6
+- 7 .5 4
+s id e n ts a n dTable 5(b): Gross Foreign Exchange Reserves
+14
+M o n th C e n tra l M o n
+C e n tra l B a n k
+2 0 2 2
+J a n u a ry 1 ,0 0 9 ,9 9 2
+F e b ru a ry 9 8 4 ,5 3 0
+M a rc h 9 6 7 ,1 0 4
+A p ril 1 ,0 4 3 ,5 2 8
+M a y 1 ,0 2 3 ,6 8 6
+J u n e 1 ,0 0 5 ,3 0 7
+J u ly 9 8 1 ,2 1 6
+A u g u s t 9 4 4 ,1 0 4
+S e p te m b e r 9 4 0 ,0 0 3
+O c to b e r 9 3 9 ,5 6 6
+N o v e m b e r 9 1 7 ,6 1 8
+D e c e m b e r 9 8 4 ,0 6 0
+2 0 2 3
+J a n u a ry 9 3 1 ,4 9 9
+F e b ru a ry 9 1 1 ,0 1 7
+M a rc h 9 2 1 ,7 6 9
+A p ril 9 6 3 ,2 6 5
+M a y 9 7 7 ,7 4 2
+J u n e 1 ,1 3 6 ,0 4 9
+J u ly 1 ,1 2 9 ,0 7 1
+S o u rc e : C e n tra l B a n k o f K e n y a
+**N a tio n a l G o v e rn m e n t in c lu d e s re s
+* In c lu d e s e n c u m b e re d re s e rv e s
+e ta ry A
+G o
+e rv e p o s
+u th o rity
+N a tio n a l
+v e rn m e n t**
+2 ,2 4 5
+2 ,2 5 5
+2 ,2 5 6
+2 ,2 0 6
+2 ,2 3 8
+2 ,2 2 3
+2 ,2 2 1
+2 ,2 2 0
+2 ,1 9 7
+2 ,2 1 3
+2 ,2 8 4
+2 ,3 2 7
+2 ,3 7 5
+2 ,3 8 6
+2 ,5 1 2
+2 ,5 8 0
+2 ,5 9 0
+2 ,6 3 1
+2 ,6 8 9
+itio n in th e F u n d
+C
+a n
+T o ta l
+o m m e rc
+B a n
+1 ,0 1 2 ,2
+9 8 6 ,7
+9 6 9 ,3
+1 ,0 4 5 ,7
+1 ,0 2 5 ,9
+1 ,0 0 7 ,5
+9 8 3 ,4
+9 4 6 ,3
+9 4 2 ,2
+9 4 1 ,7
+9 1 9 ,9
+9 8 6 ,3
+9 3 3 ,8
+9 1 3 ,4
+9 2 4 ,2
+9 6 5 ,8
+9 8 0 ,3
+1 ,1 3 8 ,6
+1 ,1 3 1 ,7
+d d e p o s its
+ia l
+k s
+3 7
+8 5
+6 0
+3 4
+2 4
+3 0
+3 7
+2 4
+0 1
+7 9
+0 2
+8 7
+7 4
+0 3
+8 1
+4 5
+3 2
+8 0
+5 9
+w ith C
+C
+ro w
+F o re ig n A s
+o m m e rc ia l
+B a n k s
+4 7 4 ,7 3 2
+5 0 2 ,0 9 1
+4 7 7 ,9 3 9
+4 8 2 ,1 7 9
+4 5 8 ,5 5 7
+4 8 1 ,4 2 0
+4 6 9 ,8 1 1
+4 6 2 ,6 5 7
+4 2 8 ,5 8 3
+4 4 1 ,8 5 8
+4 7 2 ,5 4 2
+5 0 7 ,7 0 8
+4 8 7 ,9 1 7
+5 2 1 ,3 0 6
+6 1 3 ,3 7 7
+6 0 0 ,4 8 8
+6 2 7 ,0 0 0
+7 2 0 ,7 2 3
+8 1 4 ,7 4 3
+n A g e n ts .
+s e ts
+N B F
+2 6
+9 3
+6
+9
+3 3
+5 8
+1 2
+1 0
+3 0
+1 7
+1 2
+1 1
+3 6
+1 0
+9
+1 6
+2 2
+2 3
+2 5
+I
+0
+4
+5
+0
+8
+0
+4
+0
+3
+8
+6
+1
+2
+7
+6
+8
+1
+6
+0
+G
+C
+ro s
+o m
+1 ,4
+1 ,4
+1 ,4
+1 ,5
+1 ,4
+1 ,4
+1 ,4
+1 ,4
+1 ,3
+1 ,3
+1 ,3
+1 ,4
+1 ,4
+1 ,4
+1 ,5
+1 ,5
+1 ,6
+1 ,8
+1 ,9
+s
+m
+8
+8
+4
+2
+8
+8
+5
+0
+7
+8
+9
+9
+2
+3
+3
+6
+0
+5
+4
+T o ta l
+e rc ia l
+B a n k s
+7 ,2 2 9
+9 ,8 1 0
+7 ,3 6 4
+8 ,0 0 2
+4 ,8 2 0
+9 ,5 3 0
+3 ,3 7 2
+9 ,0 8 0
+1 ,0 8 7
+3 ,8 1 5
+2 ,5 7 0
+4 ,2 0 6
+2 ,1 5 3
+4 ,8 1 5
+7 ,7 5 3
+6 ,5 0 1
+7 ,5 5 2
+9 ,6 3 9
+6 ,7 5 2
+N
+K S h M illio n *
+e t o f F o re ig n
+E x c h a n g e
+L ia b ilitie s
+N a tio n a l
+G o v e rn m e n t**
+4 8 8 ,0 3 7
+4 7 3 ,6 1 1
+4 3 0 ,3 5 6
+5 1 2 ,1 2 0
+4 7 1 ,9 6 8
+4 5 9 ,0 5 3
+4 0 2 ,1 8 8
+3 3 7 ,8 9 9
+2 9 6 ,7 4 9
+3 1 1 ,0 0 1
+2 7 8 ,2 9 3
+2 8 5 ,3 5 0
+2 4 7 ,4 5 3
+2 3 5 ,0 0 2
+3 1 1 ,2 2 1
+3 2 6 ,8 7 6
+3 5 4 ,6 9 6
+5 9 4 ,1 0 4
+6 2 8 ,9 3 4Table 6: Coffee Sales and Prices
+15
+Q U A N T I T Y
+M o n t h
+( M T )
+5 ,9 9 0 .2 4J a n u a r y
+6 ,2 7 0 .8 7F e b r u a r y
+6 ,6 4 5 .5 2M a r c h
+1 ,8 4 5 .5 6A p r il
+4 9 0 .6 1M a y
+3 0 4 .0 9J u n e
+2 ,1 1 1 .3 0J u ly
+4 ,3 7 9 .9 3A u g u s t
+3 ,4 0 9 .4 8S e p te m b e r
+3 ,0 1 5 .0 1O c to b e r
+1 ,7 7 4 .8 6N o v e m b e r
+1 ,6 1 3 .4 8D e c e m b e r
+3 7 ,8 5 0 .9 4 A n n u a l
+S o u rc e : A g ric u ltu re a n d F o o d A u th
+N B : M T d e n o te s M e tric T o n n e s
+* * N a iro b i C o ffe e E x c h a n g e w a s in
+* P ro v is io n a l
+.. D a ta n o t a v a ila b le
+2 0 2 2
+P R I C E ( $ P R I C E/K
+g ) ( K S h /K g )
+6 .7 2 7 6 1 .6 2
+6 .4 2 7 2 9 .6 7
+4 .9 9 5 7 1 .3 4
+4 .4 9 5 1 9 .0 2
+3 .6 5 4 2 4 .2 3
+5 .3 4 6 2 7 .2 9
+5 .6 1 6 6 3 .9 1
+5 .3 3 6 3 7 .1 0
+4 .8 9 5 8 8 .9 8
+4 .0 8 4 9 4 .0 8
+3 .5 5 4 3 3 .3 0
+3 .7 7 4 6 3 .2 6
+4 .9 0 5 7 6 .1 5
+o rity ;C o ffe e D ire c to ra te
+re c e s s in J u n e 2 0 2 3
+Q U
+4
+5
+5
+4
+1
+2
+A N
+,4 3
+,5 9
+,0 7
+,4 0
+,3 7
+0 ,8
+T I T Y(
+M T )9
+.6 5
+8 .2 5
+2 .5 0
+7 .4 5
+3 .5 0
+* *
+..
+9 1 .3 5
+2 0 2 3 *
+P R I C E ( $/K
+g )
+4 .8 7
+5 .4 1
+4 .8 0
+4 .2 2
+4 .4 1
+* *
+..
+4 .7 4
+P(
+K S h
+6 0
+6 8
+6 2
+5 6
+6 0
+6
+R I C E
+/K g )3
+.3 1
+0 .2 1
+1 .5 5
+5 .8 9
+3 .8 7
+* *
+..
+1 4 .9 6
+Figure 4: Coffee Sales at the Nairobi Coffee ExchangeTable 7: Tea Production and Auction Prices
+16
+M o n t h s
+J a n u a r y
+F e b r u a r y
+M a r c h
+A p r il
+M a y
+J u n e
+J u ly
+A u g u s t
+S e p te m b e r
+O c to b e r
+N o v e m b e r
+D e c e m b e r
+A n n u a l
+S o u rc e : A g ric u ltu re a
+M T d e n o te s M e tric T
+* P ro v is io n a l
+.. D a ta n o t a v a ila b le
+n
+o
+d
+n
+F
+n e
+o
+s
+o d
+Q U
+4
+4
+4
+4
+5
+4
+3
+3
+3
+5
+4
+5
+5 3
+A u th
+A(
+8
+0
+6
+1
+0
+3
+4
+6
+8
+0
+9
+5
+5
+o
+N T I T Y
+M T )
+,8 3 2 .8 1
+,9 5 6 .1 9
+,4 7 6 .1 6
+,3 3 3 .9 5
+,2 5 2 .8 3
+,4 5 2 .6 8
+,0 0 3 .4 7
+,0 6 0 .8 3
+,3 3 6 .3 6
+,6 1 1 .6 1
+,4 0 4 .2 1
+,3 2 2 .6 1
+,0 4 3 .7 0
+rity ;T e a D
+2 0 2
+P R I C E(
+$ /K g )
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+ire c to ra te
+2
+.5
+.7
+.5
+.6
+.4
+.4
+.3
+.3
+.3
+.4
+.4
+.3
+.4
+9
+4
+9
+3
+1
+4
+7
+9
+6
+6
+9
+9
+9
+P R I C E(
+K S h /K g
+2 9
+3 1
+3 0
+3 0
+2 8
+2 8
+2 8
+2 8
+2 8
+2 9
+3 0
+2 9
+2 9
+)
+3
+1
+0
+3
+0
+6
+0
+5
+4
+7
+3
+4
+3
+.5
+.3
+.7
+.6
+.2
+.3
+.3
+.8
+.4
+.8
+.5
+.0
+.4
+5
+7
+1
+5
+3
+0
+7
+7
+3
+1
+2
+8
+9
+Q U
+5
+3
+3
+4
+5
+4
+2 7
+A N T I T Y
+( M T )
+4 ,9 1 9 .1 9
+2 ,7 3 0 .2 7
+0 ,4 8 8 .7 9
+9 ,4 9 1 .3 9
+7 ,8 8 5 .9 1
+8 ,1 2 7 .8 9
+..
+3 ,6 4 3 .4 4
+2 0 2 3 *
+P R I C E
+( $ /K g )
+2 .3 3
+2 .3 1
+2 .3 9
+2 .3 9
+2 .1 9
+2 .0 9
+..
+2 .2 8
+P R I C E
+( K S h /K g )
+2 8 8 .7 1
+2 9 0 .6 7
+3 1 0 .5 2
+3 2 0 .8 2
+3 0 0 .4 5
+2 9 1 .8 7
+..
+3 0 0 .5 1
+Figure 5: Tea ProductionTable 8: Cane Deliveries
+17
+M o n t h
+J a n u a r yF
+e b r u a r yM
+a r c hA
+p r ilM
+a yJ
+u n eJ
+u lyA
+u g u s tS
+e p te m b e rO
+c to b e rN
+o v e m b e rD
+e c e m b e rT
+o t a lS
+o u r c e :A g r ic*
+P r o v is io n a l..
+D a ta n o t a v
+u
+a
+5 3
+4 5
+4 5
+3 8
+3 4
+2 5
+2 6
+3 5
+3 9
+4 0
+3 5
+3 8
+4 ,6 0ltu
+r e a
+ila b le
+2
+8361896776715n
+0
+.6.4.1.7.0.2.9.5.5.5.4.7.1d
+1 9
+7871477623540
+F o o
+5
+5
+5
+5
+5
+5
+6
+6
+6
+6
+5
+4
+6 ,8d
+A u
+2283472244969th
+2
+2934425954484o
+0 2 0
+.8 9 6.9
+4 6.1
+4 7.6
+9 6.3
+6 6.3
+7 6.6
+1 6.1
+0 6.3
+1 5.2
+4 5.1
+8 6.5
+9 6.4
+0 7 ,6r
+ity ; S u g a
+2
+8 16
+00
+93
+13
+63
+93
+67
+91
+75
+16
+34
+95
+7r
+D
+0
+.5.4.4.4.4.3.5.5.9.6.7.4.5ir
+2
+4463655638100e
+1
+c to
+6
+6
+8
+7
+6
+7
+7
+5
+6
+8
+7
+7
+8 ,5r
+a te
+0
+9621765182708
+02
+1459331204905
+0 M0
+2
+.1 1.0
+1.1
+8.4
+8.2
+0.3
+0.8
+4.8
+5.0
+0.1
+4.6
+1.7
+0.4
+0
+2
+e t r ic T
+9
+7
+5
+4
+4
+4
+3
+3 ,8
+o n n2
+0 2
+0 8 .51
+6 .24
+6 .10
+5 .30
+8 .13
+6 .69
+5 .2
+1 6 .5
+e3
+8759993
+0
+s*
+Figure 6: Cane DeliveriesTable 9(a): Average Monthly Retail Prices for Dry Maize, 2022 (per Kg)
+Month
+County Market Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Kongowea 57.0 50.0 50.0 50.0 60.0 72.5 80.0 75.0 71.3 66.7 73.8 75.0
+Mackinon 106.0 108.8 80.0 120.0 106.0 90.0 104.0 100.0 100.0 100.0 100.0 100.0
+Mombasa
+Majengo 50.0 83.3 100.0 105.0 124.0 137.5 140.0 140.0 140.0 140.0 140.0 140.0
+Mwembe Tayari 70.0 67.5 60.0 67.5 76.0 90.0 100.0 100.0 100.0 100.0 100.0 100.0
+Kwale Kwale 45.0 46.7 .. 50.0 75.0 71.3 92.0 100.0 100.0 100.0 100.0 100.0
+Kilifi Kibauni Kilifi 45.0 46.3 46.3 52.5 55.0 55.0 .. .. .. 75.0 97.5 80.0
+Tana River Hola 60.0 80.0 .. 70.0 70.0 75.0 73.0 76.3 75.0 .. .. ..
+Mkunguni 60.0 60.0 .. .. .. .. 97.5 100.0 100.0 100.0 100.0 100.0
+Lamu
+Mpeketoni 72.5 .. .. .. .. .. 46.3 50.0 .. .. .. ..
+Taita/Taveta Voi 45.5 46.3 45.0 46.3 52.5 64.4 74.5 71.3 70.0 70.0 70.0 70.0
+Garissa Garissa Town 70.0 70.0 62.5 60.0 60.0 67.5 70.0 70.0 70.0 70.0 71.3 75.0
+Wajir Wajir Town .. .. .. .. .. .. .. .. .. .. .. 57.3
+Mandera Mandera Town .. .. .. .. .. .. .. .. .. .. .. 140.0
+Marsabit Marsabit Town 56.0 68.8 87.5 90.0 80.0 92.5 92.0 87.5 80.0 105.0 95.0 105.0
+Isiolo Isiolo Town .. 50.0 40.0 50.0 .. .. 100.0 .. 70.0 70.0 70.0 80.0
+Gakoromere 44.4 45.8 44.4 48.6 54.4 94.4 86.7 79.2 86.1 88.9 93.1 88.9
+Meru Kianjai 44.4 41.7 38.9 47.2 51.1 77.8 77.8 72.2 76.4 75.6 72.2 72.2
+Maua 45.6 45.8 43.1 48.6 64.8 100.0 91.1 77.8 80.6 81.1 77.8 77.8
+Tharaka-Nithi Chuka Town .. 56.2 48.1 55.4 .. .. 90.8 93.4 94.7 99.0 84.7 80.6
+Embu Town 42.9 44.3 43.1 43.9 43.9 58.9 99.0 99.4 82.6 85.3 95.8 97.6
+Iciara 40.6 45.4 43.9 41.5 45.3 47.5 98.6 88.5 83.0 97.1 96.5 97.6
+Embu Kiritiri 35.3 39.3 43.7 43.9 45.0 61.1 99.0 99.4 95.3 93.1 96.4 96.4
+Runyenjes 39.9 44.1 43.4 43.1 43.7 62.0 100.0 97.0 80.8 85.9 95.8 97.6
+Siakago 35.5 36.6 43.9 43.9 45.6 73.3 97.6 95.8 95.3 93.8 96.4 95.9
+Kabati 39.6 43.3 55.0 53.3 58.3 .. .. .. .. 68.8 .. ..
+Kitui
+Kalundu 39.6 40.0 45.0 46.3 52.0 .. .. .. .. 61.3 65.0 65.0
+Machakos Town 50.0 50.0 50.0 50.0 60.0 84.0 84.4 80.0 100.0 100.0 100.0 100.0
+Machakos
+Tala 50.0 40.0 40.0 .. 81.3 90.0 .. .. .. .. .. ..
+Makueni Wote 40.0 45.0 50.0 50.0 56.0 75.0 74.0 70.0 73.8 73.0 75.0 80.0
+Engineer 46.0 50.0 50.0 42.5 50.0 50.0 90.0 100.0 92.5 90.0 90.0 90.0
+Nyandarua
+Ol Kalou 40.0 40.0 50.3 50.0 59.0 60.0 93.0 97.5 92.5 90.0 90.0 90.0
+Karatina 47.7 45.9 47.1 46.7 53.4 68.5 86.6 86.6 73.6 74.5 77.4 74.0
+Nyeri
+Nyeri 48.6 48.8 35.2 49.7 56.8 67.6 76.7 76.6 77.9 75.4 71.8 72.9
+Kerugoya 54.2 41.9 43.0 52.4 61.9 69.8 80.9 80.8 82.1 82.4 82.4 85.2
+Kirinyaga
+Kutus 36.4 40.9 46.5 44.0 53.9 65.6 82.3 81.5 82.6 82.4 82.4 85.2
+Kiriaini 36.4 41.6 .. 49.6 44.5 .. .. .. .. .. .. ..
+Murang'a Makuyu 42.9 44.3 45.0 51.0 55.8 80.3 80.8 81.1 83.3 76.4 83.5 83.6
+Muthithi 38.4 37.1 .. .. 68.9 .. .. .. .. 78.5 71.7 ..
+Gatundu 46.0 47.5 40.0 43.8 55.6 90.0 58.0 52.5 90.0 80.0 80.0 85.0
+Githurai 53.3 50.0 50.0 71.3 63.3 71.3 64.0 68.8 77.5 72.5 76.7 70.0
+Kiambu Kiambu 52.0 50.0 50.0 50.0 63.3 76.7 80.0 80.0 80.0 82.0 100.0 95.0
+Limuru 50.0 50.0 50.0 44.4 63.3 90.0 90.0 90.0 75.0 94.0 72.5 53.8
+Thika 42.0 41.3 45.0 48.8 52.0 61.5 68.0 65.0 65.0 80.0 80.0 75.0
+Turkana Lodwar 60.0 51.8 54.1 56.4 58.8 89.7 107.2 111.8 96.4 73.9 81.5 69.8
+West Pokot Makutano 60.0 60.0 .. .. .. .. .. .. .. 60.0 60.0 60.0
+Trans Nzoia Kitale 36.8 39.8 39.2 48.8 51.9 65.6 76.4 66.7 .. .. .. ..
+Burn Forest 37.5 .. .. .. 60.0 .. 100.0 .. 76.0 76.7 76.7 ..
+Eldoret 52.0 40.0 .. .. .. .. .. .. .. .. .. ..
+Uasin Gishu
+Kipkaren 35.0 35.0 32.0 32.0 35.2 55.2 54.5 62.0 65.0 60.8 63.0 64.0
+Turbo 38.5 35.0 31.0 32.0 37.6 49.0 51.2 56.0 59.0 62.4 62.0 60.0
+Elgeyo-MarakwetIten 37.8 41.9 45.0 .. 60.0 68.8 94.0 186.4 82.5 78.0 73.8 76.3
+Chepsonoi 32.7 37.1 46.0 48.8 47.1 .. .. .. 73.1 71.5 62.5 57.7
+Nandi
+Kapsabet 33.5 38.8 45.2 47.5 45.9 62.7 63.9 76.9 75.0 69.2 64.8 57.7
+Baringo Kabarnet 38.3 37.5 40.0 42.5 53.0 62.5 81.8 72.5 70.0 67.5 65.0 61.3
+Nanyuki 52.1 53.9 55.6 56.4 65.7 78.1 78.0 72.5 82.3 82.1 74.4 80.2
+Laikipia
+Nyahururu 52.3 38.8 35.0 42.5 48.5 70.0 66.7 64.5 58.4 68.0 70.0 66.7
+Nakuru Nakuru Town 40.0 45.0 45.0 46.3 50.0 60.0 54.0 45.0 45.0 45.0 80.0 80.0
+Narok Muthurwa Narok 40.0 36.4 38.4 42.0 53.1 77.4 78.0 65.5 66.3 75.8 70.9 67.2
+Kajiado Kajiado 59.2 62.5 60.0 75.0 70.0 80.0 100.0 100.0 80.0 80.0 80.0 80.0
+Kericho Kericho .. .. .. .. .. .. 97.0 100.0 97.5 .. .. ..
+Bomet 32.1 35.3 36.6 42.9 49.3 58.0 69.7 65.4 66.3 68.5 69.2 69.2
+Kimulot 34.8 33.5 35.3 43.7 50.7 63.4 71.0 58.7 65.4 64.7 64.4 64.4
+Bomet
+Mulot 32.6 35.3 36.6 41.1 49.3 63.6 64.3 49.3 53.6 64.2 65.4 65.4
+Sotik 33.9 34.8 36.6 43.7 52.9 65.3 59.7 61.5 65.4 68.2 67.3 69.2
+Butere 35.5 38.5 38.4 44.6 51.0 69.8 67.5 56.9 56.6 61.1 60.4 62.8
+Kakamega Kakamega 38.8 42.6 42.5 45.0 50.3 64.6 67.5 59.4 58.3 63.3 65.6 65.3
+Mumias 33.5 36.2 38.3 44.7 53.6 69.8 61.1 50.0 59.4 64.2 65.6 66.7
+Vihiga Mbale 38.8 40.7 43.0 48.4 56.1 .. 96.4 81.3 75.0 69.5 63.4 67.5
+Bungoma Bungoma Town 41.7 43.5 42.4 48.4 54.6 71.9 71.6 59.3 65.7 64.1 64.7 64.1
+Bumala 80.0 64.2 .. .. .. .. .. .. .. .. .. ..
+Busia
+Busia Town 34.9 42.0 47.2 54.5 60.4 69.3 77.3 77.3 77.3 77.3 79.5 78.4
+Bondo 34.8 37.8 61.6 66.0 69.7 73.7 71.5 67.9 70.9 77.4 81.6 82.0
+Siaya Siaya 38.6 46.8 59.3 .. .. .. 68.3 73.8 .. .. .. ..
+Unguja 36.1 39.9 68.3 71.9 74.9 77.4 79.0 72.4 72.4 77.4 84.2 87.3
+Ahero 34.6 35.2 35.3 46.7 50.0 .. 44.8 64.1 65.2 66.1 65.2 66.3
+Kiboswa 36.0 39.8 42.3 38.4 39.1 36.4 38.7 52.2 39.9 55.0 63.6 62.2
+Kisumu
+Kibuye 35.3 35.3 40.5 52.2 65.2 46.4 44.3 64.1 64.1 63.0 .. ..
+Sondu 35.3 34.8 36.8 37.0 34.8 50.0 60.4 59.4 62.5 65.4 .. 69.6
+Namba Kadero .. .. .. .. .. .. .. .. .. .. 70.8 ..
+Homa Bay
+Soko Mjinga 45.6 38.3 53.4 49.0 61.3 65.6 63.9 60.4 60.8 72.1 71.1 70.1
+Kegonga 30.0 28.0 36.0 44.0 44.0 40.0 40.0 40.0 52.0 60.0 72.0 64.0
+Migori Kehacha 30.7 28.0 36.0 48.0 48.0 42.7 44.0 44.0 48.0 62.7 72.0 66.7
+Migori 32.4 32.0 40.0 52.0 52.0 56.0 49.6 52.0 60.0 69.6 80.0 73.3
+Kisii Daraja Mbili 38.2 43.5 45.1 54.3 68.4 87.0 74.6 66.6 67.8 75.2 76.3 78.3
+Nyabite 40.4 .. .. .. 56.5 .. 73.9 .. 67.4 75.7 73.9 70.3
+Nyamira
+Riochanda 65.7 .. .. .. .. .. .. .. .. .. .. ..
+Burma .. .. .. .. .. .. .. .. .. 69.1 60.2 59.3
+Gikomba .. .. .. .. .. .. .. .. .. 180.0 187.5 187.5
+Kangemi .. .. .. .. .. .. .. .. .. 79.9 73.1 73.0
+Kawangware .. .. .. .. .. .. .. .. .. 80.7 74.1 78.7
+Nairobi City
+Kayole .. .. .. .. .. .. .. .. .. 80.0 80.0 80.0
+Korokocho .. .. .. .. .. .. .. .. .. 65.0 76.3 80.0
+Muthurwa 76.3 .. .. .. .. .. .. .. .. 100.0 100.0 100.0
+Toi .. .. .. .. .. .. .. .. .. 76.2 73.7 77.5
+Total 46.4 45.6 47.0 51.4 58.2 70.3 77.3 77.6 76.1 77.9 79.9 80.5
+..Data not available
+The total price is the average weighted price which is dependent on the number of markets in county and the cycles the retail prices are collected.
+18Table 9(b): Average Monthly Retail Prices for Dry Maize, 2023 (per Kg)
+Month
+County Market Jan Feb Mar Apr May Jun Jul
+Mwembe Tayari 9 4.0 9 5.0 9 0.0 9 4.0 1 00.0 9 5.0 9 8.0
+Majengo 1 22.5 1 35.0 1 02.5 9 6.3 9 5.0 9 0.0 8 7.0
+Mombasa Mackinon 9 0.0 9 0.0 9 0.0 9 0.0 9 0.0 1 00.0 1 00.0
+Sega 1 20.0 1 18.8 1 03.8 9 5.0 9 5.0 9 7.5 1 03.0
+Kongowea 7 8.0 7 6.3 7 5.0 7 5.0 8 0.0 8 0.0 7 7.0
+Kwale Kwale 8 6.0 7 8.8 7 7.5 9 2.5 9 8.0 1 00.0 9 4.0
+Kilifi Kibauni Kilifi 7 0.0 7 2.5 7 7.5 7 6.3 7 5.0 7 6.3 7 7.0
+Tana River Hola 7 2.0 7 0.0 7 0.0 7 0.0 7 0.0 7 0.0 7 4.0
+Lamu Mkunguni 1 00.0 1 00.0 1 00.0 1 00.0 1 06.0 1 17.5 1 04.0
+Taita-Taveta Voi 7 0.0 7 3.8 7 8.1 8 0.0 7 7.5 8 0.0 7 3.5
+Garissa Garissa Town 7 5.0 7 5.0 7 5.0 7 5.0 7 5.0 1 00.0 1 00.0
+Wajir Wajir Town 9 9.5 1 00.0 9 6.3 1 13.8 1 03.0 8 5.6 8 0.8
+Mandera Mandera Town 1 24.0 1 35.0 1 40.0 1 50.0 1 48.0 1 25.0 1 20.0
+Marsabit Marsabit Town 7 0.0 7 0.0 7 0.0 7 0.0 7 2.0 8 5.0 9 5.0
+Isiolo Isiolo Town 9 2.0 8 0.0 9 2.5 1 00.0 8 8.0 8 5.0 1 00.0
+Maua 7 7.8 7 9.2 7 7.8 7 7.8 8 2.2 8 8.9 8 5.6
+Meru Kianjai 6 6.7 7 2.2 7 2.2 6 6.7 7 3.3 8 0.6 8 0.0
+Gakoromere 7 7.8 7 7.8 8 6.1 8 8.9 9 1.1 8 6.1 8 8.9
+Tharaka-NithiChuka Town 8 1.9 8 2.0 8 1.6 8 1.6 8 5.1 9 2.1 8 9.8
+Runyenjes 8 7.4 7 6.4 8 7.3 9 4.0 8 1.9 7 5.8 8 3.3
+Embu Town 8 7.0 7 4.0 8 6.1 9 6.4 8 5.2 8 2.4 8 3.1
+Embu Iciara 8 7.4 7 6.4 9 1.0 9 8.2 9 1.4 8 4.6 8 3.7
+Kiritiri 8 9.4 7 6.9 9 0.3 9 6.3 8 3.1 7 8.6 7 6.4
+Siakago 8 5.5 7 8.8 9 2.7 9 7.0 8 7.6 8 7.6 8 3.4
+Kalundu 6 1.0 6 6.3 7 0.0 7 0.0 7 5.0 7 7.5 ..
+Kitui
+Kabati 6 0.0 6 0.0 .. .. 7 5.0 7 7.5 ..
+Machakos Town 8 4.4 8 8.6 9 6.3 8 5.0 8 6.0 8 5.0 8 5.0
+Machakos
+Tala .. 7 5.0 7 0.0 .. .. .. ..
+Makueni Wote 7 2.0 7 0.0 7 0.0 7 0.0 7 0.0 7 5.0 8 0.0
+Engineer 8 7.0 8 5.0 8 5.0 8 8.8 9 0.0 9 0.0 9 0.0
+Nyandarua
+Ol Kalou 8 7.0 8 2.5 8 5.0 8 8.8 9 0.0 9 0.0 9 0.0
+Nyeri 7 9.2 8 0.8 7 7.0 7 5.8 8 3.2 8 8.1 8 3.3
+Nyeri
+Karatina 8 0.6 8 1.4 8 4.2 7 8.1 7 9.8 8 4.8 8 5.6
+Kutus 7 4.5 7 6.7 8 4.1 7 9.2 8 5.5 7 7.1 7 6.7
+Kirinyaga
+Kerugoya 7 8.5 7 8.5 8 2.1 8 0.0 8 0.5 8 1.1 8 0.4
+Muthithi 7 8.0 8 3.0 .. 7 7.5 7 5.3 7 1.1 ..
+Murang'a Makuyu 8 2.0 8 2.6 8 9.1 8 7.3 8 1.3 8 2.0 8 0.6
+Kiriaini 8 1.0 8 2.6 8 8.6 7 8.1 .. 8 9.1 8 3.0
+Kiambu 9 0.0 9 0.0 8 7.5 1 00.0 9 6.0 1 00.0 1 00.0
+Limuru 7 3.0 7 2.5 8 0.0 8 0.0 8 0.0 .. ..
+Kiambu Thika 8 0.0 8 0.0 8 0.0 8 0.0 8 6.0 1 00.0 9 8.0
+Githurai 6 8.0 7 0.0 8 0.0 8 0.0 8 0.0 8 5.0 8 7.0
+Gatundu 8 0.0 8 0.0 8 0.0 7 5.0 8 2.0 9 7.5 9 6.7
+Turkana Lodwar 9 8.3 9 0.6 8 3.3 1 12.5 9 1.5 1 03.8 1 51.3
+West Pokot Makutano 6 0.0 6 3.0 7 2.0 7 2.0 7 6.0 8 0.0 7 9.2
+Trans Nzoia Kitale 6 5.3 6 5.1 6 9.1 8 3.4 7 0.8 7 1.1 6 9.5
+Burn Forest 5 9.1 6 0.8 6 4.0 7 4.7 8 2.9 8 8.9 8 5.4
+Uasin Gishu Turbo 6 1.3 6 3.0 6 0.0 6 2.0 7 6.5 7 2.0 7 2.0
+Kipkaren 6 0.0 6 1.6 6 1.0 6 2.0 7 6.5 7 2.0 7 2.0
+Elgeyo-MarakwIteetn 7 3.0 7 0.0 8 2.0 8 5.0 9 1.0 1 00.0 1 00.0
+Kapsabet 6 4.5 6 2.5 7 5.0 7 5.8 7 9.4 8 0.9 7 8.4
+Nandi
+Chepsonoi .. .. .. .. 7 6.9 7 9.2 8 0.0
+Baringo Kabarnet 6 8.3 6 7.0 7 0.5 7 1.9 7 8.6 8 5.2 8 1.1
+Nanyuki 8 6.9 8 0.8 8 0.0 7 8.8 8 1.0 8 6.7 8 6.7
+Laikipia
+Nyahururu 7 4.6 7 7.5 7 0.0 7 0.0 7 7.0 8 0.0 7 6.7
+Nakuru Nakuru Town 6 1.3 4 6.3 5 3.0 4 5.0 5 5.0 5 7.5 5 5.0
+Narok Muthurwa Narok 6 3.9 7 6.8 9 2.3 8 8.0 7 9.2 8 2.0 8 2.0
+Kajiado Kajiado 8 2.0 8 0.0 9 7.5 1 10.0 9 8.0 1 00.0 9 2.0
+Kericho Kericho 8 9.0 8 1.3 9 0.0 9 0.0 1 00.0 1 05.0 1 00.0
+Kimulot 5 9.2 5 3.1 5 9.1 6 6.7 7 7.4 7 7.7 8 0.0
+Sotik 6 4.6 5 9.6 6 5.4 6 7.3 7 9.2 7 8.8 7 6.9
+Bomet
+Bomet 5 7.7 5 7.7 6 5.4 6 9.0 8 3.2 8 2.7 8 0.0
+Mulot 5 9.2 5 9.6 6 5.4 6 9.2 8 1.6 7 9.2 7 9.9
+Butere 5 7.5 5 8.3 6 3.5 7 0.8 7 5.0 8 2.1 6 9.1
+Kakamega Kakamega 6 1.7 5 8.3 6 1.5 7 1.6 7 9.8 8 2.7 6 6.4
+Mumias 5 9.7 6 3.9 6 5.7 6 8.4 7 4.4 8 0.3 6 3.5
+Vihiga Mbale 5 9.0 5 9.4 6 8.1 7 5.0 7 4.0 8 2.0 8 1.9
+Bungoma Bungoma Town 6 3.3 6 7.7 7 0.1 7 2.8 7 6.6 8 7.2 7 7.8
+Bumala 6 0.3 6 7.0 7 9.4 8 0.0 9 6.0 1 00.0 6 8.8
+Busia
+Busia Town 6 2.1 6 9.3 8 3.1 8 3.1 9 5.0 1 00.0 8 0.0
+Bondo 7 8.5 7 2.5 7 3.2 7 7.4 8 0.0 8 2.2 ..
+Siaya Siaya 6 4.6 6 6.9 7 1.5 7 2.3 7 8.2 8 4.2 8 3.9
+Unguja 6 8.7 6 4.3 6 9.2 7 8.7 8 6.4 8 7.9 ..
+Kibuye 6 8.7 6 9.6 7 6.1 7 8.3 7 6.5 8 7.0 8 7.0
+Ahero 6 9.6 6 9.6 7 7.2 7 9.3 8 0.0 8 7.5 8 7.3
+Kisumu
+Kiboswa 6 6.1 6 4.7 7 6.9 9 1.8 8 7.6 8 3.7 7 6.0
+Sondu 6 9.6 7 4.1 8 5.7 7 9.3 8 2.6 8 7.0 7 8.3
+Homabay 6 7.7 6 3.1 7 2.5 7 4.4 7 4.2 8 3.5 7 2.9
+Homa Bay
+Soko Mjinga 6 5.8 5 8.3 7 2.1 7 2.3 7 7.0 9 6.1 6 7.5
+Kegonga 5 2.0 5 4.0 .. .. .. .. ..
+Migori Kehacha 5 2.0 5 2.0 .. .. .. .. ..
+Migori 5 4.0 5 4.0 6 0.0 7 1.0 7 2.0 7 5.5 5 5.2
+Kisii Daraja Mbili 7 4.4 6 8.5 7 1.0 7 3.2 7 4.8 9 1.9 8 5.1
+Riochanda .. .. 6 7.4 .. 8 2.6 .. ..
+Nyamira
+Nyabite 6 5.7 6 7.4 7 2.3 7 3.9 7 6.5 8 7.0 8 1.7
+Muthurwa 1 00.0 1 10.0 9 0.0 8 0.0 1 20.0 1 20.0 1 20.0
+Kawangware 8 0.7 6 8.1 7 3.4 7 9.7 7 8.1 7 3.9 8 0.2
+Burma 6 0.3 5 8.5 6 1.3 6 5.9 1 09.0 1 17.5 1 20.0
+Gikomba 8 5.0 6 8.1 7 2.4 7 7.9 8 2.8 8 6.3 7 6.0
+Nairobi City
+Kangemi 7 6.2 7 1.0 7 4.0 7 7.4 7 9.2 7 7.6 ..
+Korokocho 8 0.0 8 0.0 9 7.5 8 0.0 .. 7 2.1 7 1.6
+Toi 7 7.9 8 1.6 7 6.6 7 9.1 9 1.9 8 3.8 9 0.0
+Kayole 8 0.0 8 0.0 8 0.0 8 0.0 8 0.0 9 0.0 1 00.0
+Total 7 5.9 7 4.8 7 9.1 8 1.4 8 4.1 8 6.9 8 4.6
+..Data not available
+The total price is the average weighted price which is dependent on the number of markets in county and the cycles the retail prices are collected.
+19Table 9(c): Average Monthly Retail Prices for Dry Beans, 2022 (per Kg)
+Month
+County Market Jan Feb Mar Apr May Jun Jul Aug Sept Oct Nov Dec
+Kongowea 100.0 100.0 100.0 105.0 110.0 120.0 127.5 145.0 145.0 172.0 190.0 197.5
+Mackinon 140.0 140.0 168.8 150.0 150.0 150.0 150.0 150.0 150.0 150.0 150.0 150.0
+Mombasa Majengo 120.0 120.0 120.0 120.0 128.0 120.0 118.0 120.0 122.5 120.0 120.0 120.0
+Mwembe Tayari 146.7 140.0 130.0 140.0 150.0 170.0 182.0 157.5 160.0 160.0 160.0 160.0
+Sega 122.0 122.5 120.0 122.5 130.0 137.5 140.0 140.0 140.0 140.0 140.0 140.0
+Kwale Kwale 120.0 126.7 .. 145.0 166.0 167.5 180.0 200.0 200.0 181.0 190.0 195.0
+Kilifi Kibauni Kilifi 100.0 102.5 102.5 110.0 110.0 110.0 .. .. .. 130.0 141.9 182.5
+Tana River Hola 140.0 142.5 140.0 140.0 140.0 140.0 141.0 140.0 141.7 .. ..
+Mkunguni 120.0 120.0 .. .. .. .. 120.0 120.0 120.0 120.0 120.0 120.0
+Lamu
+Mpeketoni 100.0 .. .. .. .. .. 106.3 100.0 .. .. ..
+Taita/Taveta Voi 97.0 97.5 105.6 110.0 122.0 121.3 132.7 143.3 138.3 147.3 172.5 180.0
+Garissa Garissa Town 106.7 101.7 106.7 106.7 106.7 106.7 106.7 105.8 106.7 112.0 115.0 120.0
+Wajir Wajir Town .. .. .. .. .. .. .. .. .. .. 120.0
+Mandera Mandera Town .. .. .. .. .. .. .. .. .. .. 127.5
+Marsabit Marsabit Town 102.0 120.0 150.0 145.0 132.0 143.8 150.0 140.0 140.0 158.0 162.5 185.0
+Isiolo Isiolo Town .. 80.0 87.5 100.0 .. .. 80.0 .. 110.0 118.0 112.5 93.3
+Gakoromere 90.0 90.0 85.0 85.0 115.1 150.0 137.8 133.3 141.7 174.4 197.2 200.0
+Meru Kianjai 84.4 77.8 71.9 90.0 104.4 133.3 133.3 133.3 155.6 175.6 183.3 166.7
+Maua 95.6 88.9 88.9 105.6 115.6 133.3 133.3 133.3 150.0 191.1 197.2 188.9
+Tharaka-Nithi Chuka Town .. 112.7 98.2 98.6 .. .. 137.9 136.7 158.9 142.7 129.5 128.5
+Embu Town 87.7 90.6 100.7 99.5 103.0 101.9 126.5 119.6 165.1 177.3 205.1 189.3
+Iciara 89.4 95.8 101.9 111.2 114.5 124.5 139.2 139.9 143.6 169.0 166.8 187.8
+Embu Kiritiri 90.6 100.7 100.1 96.7 91.0 116.2 134.8 145.8 147.0 186.5 217.2 204.9
+Runyenjes 90.5 93.4 101.3 107.4 106.4 112.1 131.1 109.1 164.7 177.9 209.9 196.6
+Siakago 95.3 102.5 101.9 102.5 104.9 108.1 125.0 126.5 148.5 184.8 217.2 206.1
+Kabati 93.5 100.0 110.0 110.0 110.0 .. .. .. .. 192.5 ..
+Kitui
+Kalundu 93.5 105.0 108.6 110.0 110.0 .. .. .. .. 151.4 168.6 155.7
+Machakos Town 116.0 117.5 117.1 110.0 123.3 129.5 137.5 145.0 177.5 212.5 194.3 190.0
+Machakos
+Tala 120.0 80.0 100.0 .. 158.0 180.0 .. .. .. .. ..
+Makueni Wote 100.0 100.0 130.0 140.0 124.0 120.0 124.0 140.0 140.0 140.0 165.0 155.0
+Engineer 113.3 100.0 100.0 113.3 100.0 100.0 108.0 131.7 150.0 150.0 150.0 150.0
+Nyandarua
+Ol Kalou 106.7 106.7 114.0 111.4 113.3 113.3 118.7 147.5 147.0 150.0 150.0 150.0
+Karatina 105.9 104.6 106.6 107.5 113.3 119.2 134.8 129.1 134.0 161.6 192.8 167.2
+Nyeri
+Nyeri 105.5 71.1 46.6 92.7 97.9 85.4 106.0 97.9 136.6 140.4 153.7 155.6
+Kerugoya 70.8 70.4 70.8 81.8 88.1 96.2 99.0 111.3 122.2 136.8 139.2 148.6
+Kirinyaga
+Kutus 66.1 71.7 78.7 71.6 80.6 95.6 101.6 102.5 120.2 138.7 141.2 129.7
+Kiriaini 73.4 71.1 .. 91.5 91.5 .. .. .. .. .. ..
+Murang'a Makuyu 82.2 64.6 76.3 97.9 94.5 99.5 98.0 100.1 101.2 117.8 107.5 116.1
+Muthithi 82.2 66.3 .. .. 93.7 .. .. .. .. 116.8 106.8
+Gatundu 64.3 67.9 67.3 65.2 77.2 120.0 140.0 137.5 132.5 130.7 133.3 127.5
+Githurai 103.3 103.3 114.0 122.7 117.8 122.5 124.0 129.2 127.1 130.0 126.7 123.3
+Kiambu Kiambu 101.5 105.0 114.0 114.0 123.7 132.5 135.3 140.0 130.0 169.3 164.3 168.6
+Limuru 95.0 92.1 90.6 94.2 95.0 95.0 95.0 95.0 95.0 123.0 112.5 105.0
+Thika 98.6 105.0 101.0 102.5 106.0 91.0 102.5 108.8 133.8 170.7 170.0 158.8
+Turkana Lodwar 106.7 90.9 117.1 119.1 109.0 135.4 117.3 140.6 101.8 120.0 102.9 99.1
+West Pokot Makutano 120.0 120.0 .. .. .. .. .. .. .. 120.0 120.0 120.0
+Trans Nzoia Kitale 74.7 104.4 99.0 80.9 75.7 125.3 122.8 102.1 .. .. ..
+Burn Forest 127.3 .. .. .. 120.0 .. 120.5 .. 113.6 128.2 133.3 ..
+Eldoret 100.0 97.5 .. .. .. .. .. .. .. .. ..
+Uasin Gishu
+Kipkaren 98.0 97.5 88.8 86.3 100.0 119.7 132.0 140.0 115.8 79.0 86.3 85.0
+Turbo 100.0 100.0 87.5 88.8 96.0 121.3 126.0 126.3 126.3 85.0 80.0 90.0
+Elgeyo/Marakwet Iten 100.0 100.0 99.4 .. 122.5 130.0 145.0 153.1 125.0 127.0 135.6 150.0
+Chepsonoi 104.3 107.1 108.8 109.4 108.9 .. .. .. 136.4 147.3 159.1 151.5
+Nandi
+Kapsabet 107.6 106.7 107.2 101.1 113.1 118.4 120.1 136.4 130.7 152.7 156.8 136.4
+Baringo Kabarnet 105.6 100.0 102.8 113.9 125.3 137.5 128.0 118.6 130.0 135.0 130.0 130.0
+Nanyuki 129.2 136.5 135.6 127.0 113.0 105.0 106.3 115.0 125.6 126.0 159.6 160.0
+Laikipia
+Nyahururu 108.5 87.8 80.0 100.0 90.5 100.0 108.0 93.3 97.5 110.0 115.0 141.0
+Nakuru Nakuru Town 97.3 70.8 66.7 74.2 72.7 69.2 67.1 76.7 74.2 82.0 86.7 86.0
+Narok Muthurwa Narok 73.4 66.1 60.4 97.8 68.4 104.5 107.2 104.6 106.5 96.0 82.5 97.8
+Kajiado Kajiado 116.7 111.7 119.2 123.3 113.3 120.0 133.3 140.8 144.3 147.3 150.0 148.3
+Kericho Kericho .. .. .. .. .. .. 153.0 162.5 150.0 .. ..
+Bomet 77.9 82.2 102.4 100.0 112.3 114.0 121.5 123.1 121.7 121.0 122.7 128.8
+Kimulot 76.3 77.2 84.3 87.3 95.6 104.1 115.2 113.9 99.3 114.3 118.5 125.5
+Bomet
+Mulot 74.9 76.9 80.0 92.5 106.3 112.9 115.8 106.4 106.4 115.7 146.8 133.7
+Sotik 76.2 82.1 86.8 88.9 99.3 117.3 119.0 122.4 122.4 105.0 109.7 127.3
+Butere 118.1 109.3 110.7 108.3 107.5 108.6 140.9 134.4 130.9 137.7 142.6 128.2
+Kakamega Kakamega 124.2 107.0 108.7 109.9 129.0 160.0 159.1 142.9 138.1 165.2 170.4 148.9
+Mumias 122.3 109.9 107.8 106.4 114.5 116.3 113.3 113.8 143.7 152.5 172.9 172.1
+Vihiga Mbale 144.7 137.2 164.5 152.8 173.5 .. 175.0 171.0 163.1 171.2 181.9 168.8
+Bungoma Bungoma Town 93.9 81.5 93.2 98.9 116.7 114.1 129.0 135.4 135.4 142.7 145.3 135.4
+Bumala 135.0 108.7 .. .. .. .. .. .. .. .. ..
+Busia
+Busia Town 114.9 102.5 120.5 126.7 122.9 125.0 128.7 133.0 134.1 170.9 162.5 136.4
+Bondo 117.4 123.4 139.0 138.7 139.6 144.3 147.7 137.3 143.3 143.7 195.3 191.4
+Siaya Siaya 135.5 134.4 157.2 .. .. .. 159.1 166.9 .. .. ..
+Unguja 132.8 133.2 136.6 141.5 139.6 140.1 145.5 161.5 164.8 165.8 171.6 176.8
+Ahero 103.6 104.2 106.5 112.2 112.2 .. 113.8 116.7 115.9 119.0 130.2 133.3
+Kiboswa 107.0 109.4 109.4 104.7 108.3 107.6 114.2 121.4 83.3 110.8 123.2 120.8
+Kisumu
+Kibuye 106.8 104.2 104.7 106.8 108.3 113.9 112.5 116.7 118.7 117.0 ..
+Sondu 104.2 104.7 102.2 104.6 107.9 111.2 116.1 117.0 118.2 119.3 125.0
+Namba Kadero .. .. .. .. .. .. .. .. .. .. 149.8 ..
+Homa Bay
+Soko Mjinga 116.6 105.2 101.8 99.8 121.1 109.4 120.6 115.3 128.1 137.4 145.7 106.9
+Kegonga 104.5 109.1 113.6 115.2 90.9 104.5 98.5 100.0 107.6 110.6 145.5 113.2
+Migori Kehacha 109.1 109.1 107.4 107.4 101.6 97.4 97.3 98.5 101.7 138.7 147.2 110.1
+Migori 107.2 105.8 110.6 121.7 109.9 108.7 104.3 108.7 108.7 143.5 159.1 139.3
+Kisii Daraja Mbili 106.6 100.9 102.7 121.8 114.2 116.3 124.1 124.4 127.5 141.3 155.8 155.2
+Nyabite 92.4 .. .. .. 136.4 .. 136.4 .. 127.3 136.4 136.4 136.4
+Nyamira
+Riochanda 140.0 .. .. .. .. .. .. .. .. .. ..
+Burma .. .. .. .. .. .. .. .. .. 180.4 172.3 164.3
+Gikomba .. .. .. .. .. .. .. .. .. 195.0 195.0 197.5
+Kangemi .. .. .. .. .. .. .. .. .. 183.8 181.3 173.8
+Kawangware .. .. .. .. .. .. .. .. .. 167.5 160.0 147.4
+Nairobi City
+Kayole .. .. .. .. .. .. .. .. .. 152.5 168.8 168.8
+Korokocho .. .. .. .. .. .. .. .. .. 172.0 168.8 156.3
+Muthurwa .. .. .. .. .. .. .. .. .. 180.0 180.0 110.0
+Toi .. .. .. .. .. .. .. .. .. 98.2 125.0 117.1
+Total 104.1 98.4 101.5 106.3 109.8 116.5 124.0 127.4 129.7 141.8 147.3 147.3
+.. Data not available
+The total price is the average weighted prices depending on the number of markets and number of cycles per county.
+20Table 9(d): Average Monthly Retail Prices for Dry Beans, 2023 (per Kg)
+Month
+County Market Jan Feb Mar Apr May Jun Jul
+Mwembe Tayari 1 56.0 1 60.0 1 60.0 1 60.0 1 60.0 1 85.0 1 68.0
+Majengo 1 28.0 1 57.5 1 72.5 1 97.5 2 00.0 1 90.0 1 46.0
+Mombasa Mackinon 2 00.0 1 50.0 1 37.5 1 00.0 1 00.0 1 52.5 1 08.0
+Sega 1 32.0 1 42.5 1 77.5 1 95.0 2 00.0 2 00.0 1 72.0
+Kongowea 1 60.0 1 60.0 1 66.3 1 80.0 1 80.0 1 65.0 1 37.0
+Kwale Kwale 1 82.0 1 82.5 1 90.0 1 90.0 1 92.0 1 90.0 1 68.0
+Kilifi Kibauni Kilifi 1 59.0 1 26.3 1 70.0 1 80.0 1 76.0 1 80.0 1 36.0
+Tana River Hola 1 36.0 1 50.0 1 40.0 1 40.0 1 40.0 1 40.0 1 50.0
+Lamu Mkunguni 1 32.0 2 20.0 2 20.0 2 20.0 1 82.0 2 05.0 1 80.0
+Taita/Taveta Voi 1 80.0 1 72.5 1 75.8 1 82.9 1 85.3 1 79.2 1 79.3
+Garissa Garissa Town 1 20.0 1 20.0 1 78.3 1 82.9 1 96.7 1 86.7 1 93.3
+Wajir Wajir Town 1 16.4 1 26.4 1 26.9 1 28.2 1 05.2 1 26.9 1 65.8
+Mandera Mandera Town 1 28.0 1 20.0 1 20.0 1 35.0 1 26.0 1 20.0 1 20.0
+Marsabit Marsabit Town 1 50.0 1 50.0 1 50.0 1 50.0 1 56.0 1 80.0 1 72.5
+Isiolo Isiolo Town 1 56.0 1 37.5 1 47.5 1 50.0 1 64.0 1 52.5 1 50.0
+Maua 1 64.4 1 66.7 1 77.8 1 88.9 1 80.0 1 63.9 1 45.6
+Meru Kianjai 1 33.3 1 44.4 1 69.4 1 66.7 1 66.7 1 52.8 1 24.4
+Gakoromere 1 66.7 1 66.7 1 88.9 1 86.1 1 77.8 1 75.0 1 53.3
+Tharaka-Nithi Chuka Town 1 33.9 1 38.8 1 53.1 1 52.5 1 67.3 1 82.4 1 66.5
+Runyenjes 1 71.7 1 40.3 1 66.0 1 69.6 1 55.5 1 46.6 1 66.7
+Embu Town 1 65.0 1 37.9 1 58.7 1 69.6 1 69.3 1 64.8 1 65.9
+Embu Iciara 1 67.7 1 36.2 1 63.9 1 69.4 1 69.9 1 65.8 1 64.8
+Kiritiri 1 70.0 1 47.0 1 67.4 1 68.6 1 70.4 1 55.1 1 68.3
+Siakago 1 69.2 1 52.5 1 66.4 1 66.5 1 73.9 1 60.1 1 66.0
+Kalundu 1 57.0 1 56.3 1 65.0 1 75.0 1 82.0 1 47.5 ..
+Kitui
+Kabati 1 68.0 1 60.0 .. .. 1 86.3 1 70.0 ..
+Machakos Town 1 87.7 1 80.8 1 87.0 1 90.0 1 86.2 1 75.0 1 72.2
+Machakos
+Tala .. 1 45.0 1 45.0 .. .. .. ..
+Makueni Wote 1 64.0 1 60.0 1 60.0 1 62.5 1 78.0 1 80.0 1 80.0
+Engineer 1 50.0 1 50.0 1 50.0 2 12.5 2 30.0 2 13.3 2 13.3
+Nyandarua
+Ol Kalou 1 50.0 1 50.0 1 50.0 2 12.5 2 30.0 2 18.3 2 13.3
+Nyeri 1 57.4 1 91.2 1 78.1 1 83.8 1 82.0 1 73.9 1 66.2
+Nyeri
+Karatina 1 80.9 1 59.5 1 94.3 1 83.0 1 74.3 1 76.7 1 75.2
+Kutus 1 31.9 1 16.5 1 24.2 1 45.3 1 38.0 1 52.6 1 21.0
+Kirinyaga
+Kerugoya 1 40.9 1 30.2 1 46.4 1 79.3 1 68.8 1 33.0 1 43.7
+Muthithi 1 12.0 1 08.0 - 1 23.4 1 30.7 1 30.3 ..
+Murang'a Makuyu 1 06.0 1 23.2 1 24.9 1 28.9 1 43.1 1 45.5 1 39.8
+Kiriaini 1 04.5 1 04.3 1 08.9 1 19.2 .. 1 16.0 1 35.0
+Kiambu 1 94.7 2 00.0 1 86.7 1 80.0 1 73.3 1 77.5 1 73.3
+Limuru 1 73.3 1 56.7 2 05.6 1 85.0 1 85.0 .. ..
+Kiambu Thika 1 57.3 1 50.8 1 53.3 1 46.7 1 68.0 1 86.7 1 96.0
+Githurai 1 59.0 1 50.0 1 58.8 1 58.3 1 62.7 1 72.5 1 65.3
+Gatundu 1 23.3 1 51.7 1 79.2 1 75.0 1 68.2 1 70.9 1 67.5
+Turkana Lodwar 1 08.3 1 14.6 1 18.8 1 33.6 1 56.0 2 12.1 1 50.2
+West Pokot Makutano 1 21.3 1 20.0 1 40.0 1 60.0 1 84.0 1 85.0 1 68.0
+Trans Nzoia Kitale 1 21.5 1 38.3 1 38.3 1 33.9 1 63.5 1 65.1 1 38.1
+Burn Forest 1 40.9 1 51.1 1 62.5 1 72.7 1 81.8 1 81.8 1 81.8
+Uasin Gishu Turbo 1 33.0 1 37.5 1 58.8 2 00.0 2 11.0 2 10.0 2 00.0
+Kipkaren 1 38.0 1 35.0 1 71.0 2 00.0 2 07.0 2 13.8 2 00.0
+Elgeyo-MarakwetIten 1 50.0 1 50.0 1 68.8 1 81.3 2 00.0 2 06.3 2 00.0
+Kapsabet 1 62.5 1 36.5 1 76.8 1 80.4 2 03.9 2 02.7 2 14.3
+Nandi
+Chepsonoi .. .. .. .. 1 80.0 2 02.7 2 09.4
+Baringo Kabarnet 1 52.2 1 65.0 1 54.2 2 12.5 2 09.9 2 23.6 2 02.8
+Nanyuki 1 51.9 1 47.0 1 67.5 1 72.5 1 78.0 1 56.7 1 50.0
+Laikipia
+Nyahururu 1 16.7 1 35.4 1 73.2 1 56.7 1 70.0 1 80.0 1 26.7
+Nakuru Nakuru Town 8 8.9 9 6.0 1 16.4 1 20.0 1 38.5 1 42.1 1 46.7
+Narok Muthurwa Narok 6 5.4 6 5.2 6 5.9 1 25.5 1 36.7 1 48.6 1 30.0
+Kajiado Kajiado 1 54.7 1 61.7 1 81.7 2 06.7 2 13.3 2 00.0 2 03.3
+Kericho Kericho 1 42.5 1 62.5 1 96.9 2 12.5 2 42.5 2 28.1 1 90.0
+Kimulot 1 17.7 1 30.9 1 31.6 1 56.2 1 82.1 1 67.4 1 49.5
+Sotik 1 26.8 1 34.5 1 78.8 1 79.1 1 99.3 1 82.6 1 63.3
+Bomet
+Bomet 1 28.8 1 28.6 1 77.4 2 00.1 2 10.7 2 02.2 1 77.5
+Mulot 1 41.5 1 46.2 1 49.7 1 54.2 1 85.1 1 68.2 1 53.9
+Butere 1 74.3 1 69.3 1 79.2 2 33.4 2 46.3 2 35.0 1 60.8
+Kakamega Kakamega 1 70.5 1 69.4 1 83.0 2 09.3 2 17.9 1 86.1 1 88.9
+Mumias 1 70.8 1 84.0 2 10.4 2 37.4 2 41.1 2 00.1 1 76.7
+Vihiga Mbale 2 00.0 2 25.0 2 25.0 2 25.0 2 62.1 2 54.8 2 47.2
+Bungoma Bungoma Town 1 60.0 1 59.2 1 66.2 2 09.5 2 14.1 2 06.0 2 06.8
+Bumala 1 70.7 1 79.5 2 04.2 2 25.0 2 25.0 2 12.5 2 03.8
+Busia
+Busia Town 1 67.0 1 84.1 2 16.7 2 44.3 2 60.0 2 37.5 2 13.0
+Bondo 1 92.2 1 95.2 2 05.1 2 42.6 2 28.7 2 09.8 ..
+Siaya Siaya 1 35.7 1 36.4 1 64.0 2 19.6 2 24.3 1 94.0 2 11.5
+Unguja 1 79.8 1 65.6 1 66.8 1 94.2 2 34.2 2 34.5 ..
+Kibuye 1 32.2 1 29.2 1 25.0 1 96.9 2 06.7 1 87.5 1 70.8
+Ahero 1 33.3 1 29.2 1 29.2 1 96.9 1 99.2 1 64.8 1 69.3
+Kisumu
+Kiboswa 9 4.6 1 01.6 1 46.6 1 60.2 1 75.6 1 95.9 1 91.2
+Sondu 1 20.8 1 31.4 1 34.8 2 18.2 2 20.9 1 79.5 1 45.8
+Homabay 1 40.1 1 42.3 1 81.3 2 08.1 2 02.5 1 79.9 1 90.5
+Homa Bay
+Soko Mjinga 1 55.2 1 47.1 1 82.7 2 01.4 2 09.4 1 80.8 1 78.4
+Kegonga 1 13.1 1 23.9 .. .. .. .. ..
+Migori Kehacha 1 05.4 1 22.0 .. .. .. .. ..
+Migori 1 21.7 1 34.0 1 52.2 1 07.6 1 32.2 2 17.4 2 04.3
+Kisii Daraja Mbili 1 54.4 1 68.9 1 91.6 2 04.5 1 99.9 2 14.0 2 01.1
+Riochanda .. .. 1 95.7 .. 1 95.7 .. ..
+Nyamira
+Nyabite 1 40.0 1 55.7 1 91.0 1 97.9 2 08.0 2 13.4 2 04.5
+Muthurwa 1 30.0 1 65.0 1 77.5 1 70.0 1 70.0 1 76.3 1 95.0
+Kawangware 9 6.0 7 1.7 7 0.9 7 1.7 1 07.3 8 6.9 1 24.7
+Burma 1 68.6 1 69.5 1 67.1 1 63.0 2 00.5 2 10.0 2 10.0
+Gikomba 7 9.5 9 9.4 2 18.7 2 42.5 2 10.4 1 92.2 2 04.5
+Nairobi City
+Kangemi 1 75.0 1 70.0 1 70.0 1 86.3 2 16.0 2 13.8 ..
+Korokocho 1 50.0 1 50.0 1 55.0 1 70.0 .. 1 64.4 1 90.7
+Toi 1 00.0 1 78.4 1 97.6 1 97.6 2 00.0 2 00.0 2 00.0
+Kayole 1 68.0 1 67.5 1 73.3 1 72.5 1 70.0 1 75.7 1 75.0
+Total 1 47.6 1 50.1 1 64.8 1 79.0 1 85.6 1 81.8 1 74.5
+.. Data not available
+The total price is the average weighted prices depending on the number of markets and number of cycles per county.
+21Table 10: Exports of Coffee and Tea
+22
+M
+2
+J
+A
+S
+O
+N
+D
+2
+J
+F
+M
+A
+M
+J
+J
+S
+*
+M
+o n t h
+0 2 2
+u ly
+u g u s t
+e p te m b e
+c to b e r
+o v e m b e
+e c e m b e
+0 2 3
+a n u a r y
+e b r u a r y
+a r c h
+p r il
+a y
+u n e
+u ly
+o u rc e : K
+C o ffe e , n
+T d e n o te
+r
+r
+r
+R A C u s
+o t R o a s
+s M e tric
+to m
+te d
+to n
+s
+n
+C O
+Q u a n t it y ( M
+5 ,1 7 9 .3
+3 ,2 1 2 .7
+3 ,1 7 2 .2
+3 ,2 2 3 .8
+3 ,6 5 3 .8
+2 ,2 2 3 .8
+1 ,9 2 1 .1
+3 ,8 7 7 .7
+5 ,4 8 6 .0
+5 ,4 2 8 .0
+6 ,3 5 9 .2
+7 ,0 7 8 .2
+6 ,1 7 4 .9
+a n d B o rd e r C o n
+e s
+F F E
+T )
+4
+6
+9
+1
+9
+0
+9
+4
+0
+4
+9
+7
+0
+tro l S
+E *
+K S h M
+3 ,8
+2 ,4
+2 ,3
+2 ,4
+2 ,3
+1 ,4
+1 ,2
+2 ,5
+3 ,8
+3 ,8
+4 ,7
+5 ,0
+4 ,1
+e rv ic e s d e
+illio
+2 4 .4
+8 2 .0
+6 4 .8
+1 2 .4
+8 7 .9
+1 5 .6
+1 7 .3
+6 9 .4
+5 0 .9
+9 5 .8
+4 4 .5
+0 0 .8
+9 1 .8
+p a rtm
+n
+6
+9
+6
+6
+2
+5
+2
+7
+1
+2
+3
+9
+4
+e n t
+Q u a n
+4
+4
+4
+4
+5
+4
+4
+4
+5
+3
+4
+4
+3
+t it y
+5 ,5
+2 ,9
+8 ,3
+1 ,0
+1 ,6
+7 ,8
+4 ,5
+4 ,3
+0 ,8
+7 ,0
+8 ,2
+5 ,3
+9 ,9
+( M
+8 3
+4 0
+1 2
+7 7
+4 0
+4 7
+5 6
+2 8
+3 1
+2 5
+2 9
+1 7
+4 3
+T
+T
+.9
+.4
+.3
+.4
+.5
+.9
+.0
+.6
+.0
+.1
+.2
+.5
+.6
+E
+)
+3
+5
+2
+0
+4
+9
+8
+8
+2
+3
+8
+6
+2
+A
+K S h
+1 3
+1 2
+1 4
+1 2
+1 6
+1 4
+1 3
+1 3
+1 6
+1 2
+1 6
+1 5
+1 2
+M
+,4
+,6
+,1
+,2
+,0
+,8
+,5
+,5
+,1
+,1
+,1
+,4
+,9
+illio
+6 4 .5
+0 3 .5
+6 7 .6
+5 2 .6
+3 5 .2
+9 2 .0
+1 9 .6
+1 0 .6
+9 0 .7
+7 9 .7
+7 6 .4
+4 6 .1
+1 0 .3
+n
+4
+9
+7
+2
+5
+5
+5
+2
+9
+1
+5
+5
+7
+Table 11: Monthly Exports of Fresh Horticultural Produce
+Cut Flowers Fruits Vegetables
+2022 2023* 2022 2023* 2022 2023*
+Months
+Value (KSh Value (KSh Quantity Value (KSh Quantity Value (KSh Quantity Value (KSh Quantity Value (KSh
+Quantity (MT) Quantity (MT)
+Million) Million) (MT) Million) (MT) Million) (MT) Million) (MT) Million)
+January 11,360.35 6,497.70 10,951.99 5,982.39 5 ,631.10 7 62.10 7 ,110.58 9 19.67 2 ,355.98 8 67.14 8 ,336.23 1 ,947.72
+February 721,998.61 8,542.67 11,935.17 7,238.32 2 ,083.84 2 91.81 7 ,035.74 9 53.35 2,687.27 228.12 5,751.40 1,576.61
+March 1,421,655.80 6,765.72 12,936.78 7,511.07 7 ,495.87 9 54.80 1 0,248.71 1 ,676.25 6,746.42 1,109.34 .. 1,527.18
+April 10,297.15 5,494.73 11,296.47 6,031.38 8 ,372.43 1 ,119.08 1 8,926.34 3 ,564.84 5,199.03 1,062.32 5,113.33 1,616.46
+May 715,547.18 5,469.26 11,031.90 6,210.56 9 ,584.90 1 ,162.11 2 5,922.74 3 ,777.20 4,411.57 1,121.20 7,336.83 2,209.13
+June 8,801.29 4,586.40 8,931.54 5,186.30 1 0,905.97 1 ,343.36 1 9,518.58 3 ,009.73 5,016.12 1,038.09 7,148.31 1,963.63
+July 8,425.50 4,386.34 11,715.32 6,926.53 1 4,352.89 1 ,758.37 2 2,916.07 3 ,702.47 3,386.96 1,294.81 5,254.93 1,565.52
+August 6,649.04 2,958.44 1 1,042.71 1 ,521.69 6,022.55 1,316.61
+September 1,417,539.21 3,341.07 6 ,992.45 1 ,094.93 5,671.93 1,232.30
+October 8,971.10 3,990.71 5 ,775.82 9 53.49 6,821.14 1,428.05
+November 10,221.18 4,507.59 5,394.69 722.35 6,239.38 1,763.46
+December 11,089.10 4,933.32 4,949.13 664.10 6,935.02 2,121.68
+Total 4,352,555.51 61,473.94 78,799.17 45,086.55 92,581.80 12,348.19 111,678.77 17,603.50 61,493.37 14,583.12 38,941.03 12,406.25
+Source:Agriculture and Food Authority ; Horticultural Directorate
+* Provisional
+.. Data not availableTable 12: External Trade
+23
+M o n t h
+2 0 2 2
+J u ly
+A u g u s t
+S e p te m b e
+O c to b e r
+N o v e m b e
+D e c e m b e
+2 0 2 3 *
+J a n u a r y
+F e b r u a r y
+M a r c h
+A p r il
+M a y
+J u n e
+J u ly
+S o u rc e : K e
+* P ro v is io n a
+r
+r
+r
+n y
+l
+a R e v e n
+D o m e s t icE
+x p o r t s
+6 8 ,0 2 1 .7 9
+6 2 ,0 6 4 .5 6
+6 9 ,1 0 7 .9 5
+6 0 ,4 1 5 .6 8
+6 8 ,6 5 6 .3 0
+6 3 ,8 1 5 .5 6
+6 5 ,2 8 9 .3 6
+7 1 ,4 7 1 .8 0
+7 5 ,7 4 1 .2 0
+6 7 ,0 2 4 .4 5
+8 0 ,0 7 1 .8 8
+7 7 ,7 0 1 .9 9
+7 4 ,6 7 3 .5 6
+u e A u th o rity
+E x
+7 ,5
+1 0 ,8
+8 ,9
+7 ,2
+7 ,5
+5 ,0
+7 ,6
+5 ,1
+5 ,9
+3 ,6
+1 1 ,2
+8 ,1
+7 ,9
+p
+0
+5
+7
+4
+9
+2
+3
+7
+9
+7
+8
+2
+0
+Ro
+r
+3 .7
+4 .6
+3 .0
+5 .9
+1 .9
+2 .1
+8 .6
+8 .7
+6 .4
+5 .6
+1 .8
+6 .7
+9 .4
+e -t
+s
+9
+6
+7
+4
+8
+0
+1
+2
+9
+6
+7
+0
+3
+7
+7
+7
+6
+7
+6
+7
+7
+8
+7
+9
+8
+8
+E x
+5 ,5
+2 ,9
+8 ,0
+7 ,6
+6 ,2
+8 ,8
+2 ,9
+6 ,6
+1 ,7
+0 ,7
+1 ,3
+5 ,8
+2 ,5
+T o t a l
+p o r t s
+2 5 .5 8
+1 9 .2 1
+8 1 .0 2
+6 1 .6 1
+4 8 .3 1
+3 7 .6 7
+2 7 .9 7
+5 0 .5 3
+3 7 .7 0
+0 0 .1 1
+5 3 .7 6
+2 8 .6 8
+8 2 .9 9
+2
+2
+2
+1
+1
+2
+1
+1
+2
+2
+2
+2
+1
+1
+3
+0
+8
+9
+0
+9
+7
+1
+0
+3
+1
+9
+I m
+2 ,9
+9 ,3
+7 ,6
+8 ,2
+6 ,8
+0 ,1
+4 ,5
+5 ,2
+6 ,4
+8 ,2
+0 ,2
+0 ,1
+1 ,6
+T o t a l
+p o r t s
+8 9 .8 3
+3 4 .9 3
+3 0 .6 4
+7 9 .7 0
+6 5 .5 0
+4 4 .6 3
+5 2 .0 8
+9 3 .0 5
+2 5 .5 3
+9 3 .4 5
+7 9 .2 2
+6 6 .3 9
+9 1 .6 9
+2
+3
+2
+2
+2
+2
+2
+2
+2
+2
+3
+2
+2
+V
+8
+1
+8
+5
+7
+6
+6
+5
+9
+7
+2
+9
+7
+o
+8
+2
+5
+5
+3
+8
+7
+1
+8
+8
+1
+5
+4
+lu
+,5
+,2
+,7
+,9
+,1
+,9
+,4
+,9
+,1
+,9
+,6
+,9
+,2
+mT
+1
+5
+1
+4
+1
+8
+8
+4
+6
+9
+3
+9
+7
+K
+e o f
+r a d e
+5 .4 1 1
+4 .1 5 1
+1 .6 6 1
+1 .3 2 1
+3 .8 0 1
+2 .3 0 1
+0 .0 5 1
+3 .5 8 1
+3 .2 3 1
+3 .5 6 1
+2 .9 8 1
+5 .0 7 1
+4 .6 9 1
+S
+H
+4
+5
+4
+2
+4
+4
+4
+2
+6
+4
+6
+5
+4
+h M
+o mI
+m
+3 ,9
+5 ,8
+5 ,7
+9 ,8
+2 ,8
+2 ,0
+1 ,2
+6 ,5
+5 ,2
+2 ,7
+8 ,1
+9 ,3
+0 ,5
+illio n
+e u s e
+p o r t s
+6 2 .4 0
+0 5 .4 3
+6 1 .5 2
+3 4 .7 4
+6 9 .7 0
+1 8 .9 8
+0 1 .7 3
+8 7 .4 4
+5 7 .8 3
+3 7 .7 4
+8 3 .4 4
+3 3 .9 3
+3 3 .6 3
+Table 13(a): Major Destinations of Domestic Exports
+KSh Million
+United United Arab
+Month/Country Uganda Tanzania Pakistan Netherlands Egypt Germany Rwanda USA France
+Kingdom Emirates
+2022
+July 8 ,522.12 4 ,138.55 3 ,723.40 4 ,225.18 3,592.68 2 ,523.96 1 ,437.56 4 ,341.75 7,132.23 2,634.55 1 ,108.43
+August 5 ,949.21 4 ,639.23 3 ,342.19 4 ,973.45 3,303.03 1 ,779.64 1 ,253.12 3 ,397.59 6,271.10 2,648.28 9 86.38
+September 8 ,284.08 4 ,268.99 3 ,184.02 5 ,970.06 3,665.80 2 ,239.17 1 ,467.13 3 ,378.95 7,804.24 2,612.67 8 68.96
+October 7 ,177.20 5 ,061.05 3 ,218.44 5 ,451.95 4,015.29 1 ,013.37 1 ,100.37 3 ,082.89 4,292.17 2,688.16 7 93.81
+November 7 ,062.40 3 ,957.84 3 ,649.69 6 ,246.37 3,809.84 2 ,277.04 1 ,102.92 2 ,692.94 7,105.71 3,225.97 6 11.93
+December 7 ,547.94 4 ,692.11 3 ,504.85 5 ,791.73 3,992.21 2 ,328.84 1 ,331.06 3 ,314.31 4,550.34 3,372.42 7 71.36
+2023*
+January 8 ,796.32 3 ,726.93 4 ,199.14 4 ,423.80 5,027.75 2 ,187.87 1 ,193.87 2 ,573.03 5,423.83 3,161.30 1 ,128.54
+February 9 ,683.92 4 ,314.01 4 ,695.69 3 ,858.78 5,678.56 2 ,268.97 1 ,456.77 2 ,895.81 4,391.92 3,141.94 9 50.80
+March 9 ,547.99 4 ,215.78 4 ,540.15 5 ,678.04 5,602.49 2 ,686.43 1 ,712.20 2 ,968.10 5,247.19 3,931.52 9 12.95
+April 9 ,174.58 3 ,455.99 3 ,996.25 5 ,221.18 5,868.02 1 ,592.90 1 ,445.03 2 ,888.34 4,489.65 3,507.99 1 ,102.83
+May 9 ,974.10 4 ,555.68 5 ,029.57 6 ,697.24 6,040.48 2 ,013.51 1 ,268.92 3 ,641.12 6,163.88 4,436.14 1 ,381.62
+June 9 ,870.20 4 ,663.52 4 ,146.57 7 ,305.21 5,021.13 3 ,281.26 1 ,968.67 2 ,975.09 5,663.36 3,417.01 1 ,530.78
+July 1 0,265.45 4 ,999.25 4 ,108.90 5 ,229.90 5,418.40 2 ,409.73 1 ,441.40 3 ,420.18 6,481.21 2,734.40 1 ,287.98
+Source: Kenya Revenue Authority
+*ProvisionalTable 13(b): Domestic Exports by Broad Economic Category
+KSh Million
+2022 2023*
+Descriptions
+July Aug Sep Oct Nov Dec Jan Feb March April May June July
+Food and beverages 3 0,718.41 2 5,657.38 2 7,526.68 2 5,861.97 2 9,675.08 2 7,398.20 2 6,343.46 2 7,541.59 3 3,097.09 2 9,832.71 3 5,597.99 3 6,010.60 3 2,209.23
+Industrial supplies (Non-Food) 1 8,354.11 1 8,920.12 2 0,831.22 1 6,383.97 2 0,607.45 1 7,781.91 2 1,172.82 2 0,138.12 2 0,184.61 1 6,638.68 2 1,287.59 2 0,783.26 2 1,534.95
+Fuel and Lubricants 6 20.99 9 16.31 2 ,486.59 7 47.91 7 90.38 8 89.91 9 25.24 1 ,089.94 9 25.16 9 81.29 1 ,240.48 1 ,113.47 1 ,192.49
+Machinery & other capital Equipment 9 52.03 1 ,313.89 1 ,004.03 9 74.01 8 92.26 1 ,061.95 7 90.61 1 ,531.63 1 ,118.91 1 ,326.01 1 ,216.30 1 ,184.10 1 ,246.17
+Transport equipment 8 49.68 5 53.94 2 82.99 7 18.20 8 01.41 8 58.61 5 34.29 9 84.08 5 93.76 6 99.39 6 61.45 4 65.38 3 57.08
+Consumer goods Not elsewhere specified 1 6,525.52 1 4,586.49 1 6,960.67 1 5,722.99 1 5,883.33 1 5,819.78 1 5,520.30 2 0,173.38 1 9,816.28 1 7,519.41 2 0,058.04 1 8,142.15 1 8,133.64
+Goods not elsewhere specified 1 .05 1 16.43 1 5.78 6 .63 6 .42 5 .20 2 .64 9 .33 5 .39 2 6.95 1 0.03 3 .03 -
+Total 6 8,021.79 6 2,064.56 6 9,107.95 6 0,415.68 6 8,656.34 6 3,815.56 6 5,289.36 7 1,468.06 7 5,741.20 6 7,024.45 8 0,071.88 7 7,701.99 7 4,673.56
+Percentage Shares:
+Food and Beverages 45.16 41.34 39.83 4 2.81 4 3.22 42.93 4 0.35 3 8.54 4 3.70 4 4.51 4 4.46 4 6.34 4 3.13
+Industrial Supplies (Non-Food) 26.98 30.48 30.14 2 7.12 3 0.02 27.86 3 2.43 2 8.18 2 6.65 2 4.82 2 6.59 2 6.75 2 8.84
+Fuel and Lubricants 0.91 1.48 3.60 1 .24 1 .15 1.39 1 .42 1 .53 1 .22 1 .46 1 .55 1 .43 1 .60
+Machinery and other Capital Equipment... 1.40 2.12 1.45 1 .61 1 .30 1.66 1 .21 2 .14 1 .48 1 .98 1 .52 1 .52 1 .67
+Transport Equipment 1.25 0.89 0.41 1 .19 1 .17 1.35 0 .82 1 .38 0 .78 1 .04 0 .83 0 .60 0 .48
+Consumer Goods not elsewhere specified 24.29 23.50 24.54 2 6.02 2 3.13 24.79 2 3.77 2 8.23 2 6.16 2 6.14 2 5.05 2 3.35 2 4.28
+Goods not elsewhere specified 0.00 0.19 0.02 0 .01 0 .01 0.01 0.00 0.01 0.01 0.04 0.01 0.00 0.00
+TOTAL 100.00 100.00 100.00 1 00.00 1 00.00 100.00 1 00.00 1 00.00 1 00.00 1 00.00 100.00 100.00 100.00
+Source: Kenya Revenue Authority (KRA)
+*Provisional
+Table 14 (a): Major Origins of Imports
+24
+M o n th
+2022
+July
+A ugust
+S eptem ber
+O ctober
+N ovem ber
+D ecem ber
+2023*
+January
+F ebruary
+M arch
+A pril
+M ay
+June
+July
+S ource: K enya R
+*P rovisional
+evenue A uthority
+U n ited A rab E m irates
+32,803.77
+46,881.30
+31,570.35
+38,083.40
+31,652.43
+48,889.10
+33,077.08
+36,683.00
+13,925.10
+28,147.99
+40,740.71
+32,248.26
+32,173.63
+U n ited K in g d o m
+2,491.50
+3,999.93
+4,321.04
+2,196.87
+2,901.44
+3,302.29
+3,658.19
+2,847.29
+2,479.15
+2,237.21
+3,343.88
+3,587.81
+3,147.25
+S o u th A frica
+9,092.69
+3,043.40
+4,357.73
+3,758.24
+5,801.26
+4,343.48
+3,267.34
+5,932.42
+7,318.64
+8,551.44
+7,349.80
+6,747.53
+7,848.14
+S au d i A rab ia
+2,506.40
+2,118.87
+18,359.77
+7,866.45
+11,944.80
+1,847.97
+4,013.20
+8,440.21
+32,265.10
+19,241.31
+12,408.73
+7,655.04
+7,780.57
+Jap an
+7,140.04
+9,325.16
+7,730.06
+5,784.55
+7,512.94
+9,010.65
+6,822.18
+5,699.43
+8,033.16
+7,915.78
+7,839.67
+8,747.74
+8,414.69
+In d ia
+17,322.51
+18,805.21
+16,474.16
+14,276.76
+16,810.69
+16,352.06
+24,200.86
+14,001.54
+27,319.87
+27,649.91
+26,625.57
+21,411.60
+18,568.19
+U S A
+9,309.07
+6,822.87
+6,714.07
+9,068.88
+7,252.72
+7,741.34
+5,768.69
+6,618.53
+6,915.96
+11,277.38
+11,378.46
+12,019.75
+11,289.81
+G erm an y
+2,308.06
+2,079.70
+6,424.24
+2,378.17
+2,395.60
+2,578.18
+2,995.43
+3,719.39
+2,915.56
+3,524.86
+3,547.16
+5,177.88
+2,590.86
+N eth erlan d s
+9,240.69
+4,589.96
+2,968.56
+1,742.51
+1,138.00
+2,026.00
+1,723.21
+3,691.41
+2,884.36
+1,997.93
+1,037.56
+3,332.65
+1,635.11
+F ran ce
+1,549.23
+2,300.13
+1,726.76
+1,073.65
+2,064.67
+2,489.79
+4,375.98
+1,491.07
+2,052.22
+1,699.93
+2,700.42
+2,330.09
+2,781.81
+K S h M illio n
+C h in a
+39,060.09
+42,745.71
+32,437.06
+35,295.96
+36,974.65
+38,976.86
+30,520.34
+29,997.65
+30,343.56
+35,244.42
+43,597.94
+35,533.22
+40,050.54Table 14(b): Imports by Broad Economic Category
+25
+D escriptions
+F ood and beveragesIndustrial
+supplies (N on-F ood)
+F uel and LubricantsM
+achinery & other capital E quipm entT
+ransport equipm entC
+onsum er goods N ot elsew here specifiedG
+oods not elsew here specifiedTo
+tal
+P ercen tag e S h ares:F
+ood and B everages
+Industrial S upplies (N on-F ood)F
+uel and Lubricants
+M achinery and other C apital E quipm ent...T
+ransport E quipm entC
+onsum er G oods not elsew here specifiedG
+oods not elsew here specifiedTO
+TA L
+S ource: K enya R evenue A uthority
+*P rovisional
+Ju ly
+16,237.03
+76,361.86
+66,715.01
+24,562.3212,525.05
+14,663.62
+1,924.95
+212,989.83
+7.62
+35.85
+31.32
+11.53
+5.88
+6.88
+0.90
+100
+A u g
+24,022.18
+89,450.51
+71,754.91
+24,416.2313,118.51
+15,593.94
+978.65
+239,334.93
+10.04
+37.37
+29.98
+10.20
+5.48
+6.52
+0.41
+100
+2022
+S ep O ct
+24,571.93 20,092.29
+73,712.50 63,256.03
+57,121.73 52,509.40
+21,366.13 23,414.5013,342.87
+14,970.96
+17,040.37 13,128.01
+475.11 908.52
+207,630.64 188,279.70
+11.83 10.67
+35.50 33.60
+27.51 27.89
+10.29 12.44
+6.43 7.95
+8.21 6.97
+0.23 0.48
+100 100
+N o v
+22,516.99
+75,523.25
+43,544.25
+23,814.5713,611.66
+16,496.09
+1,358.47
+196,865.56
+11.44
+38.36
+22.12
+12.10
+6.91
+8.38
+0.69
+100
+D ec
+26,857.32
+69,757.18
+49,637.05
+19,725.36
+17,843.30
+15,996.53
+327.89
+200,144.63
+13.42
+34.85
+24.80
+9.86
+8.92
+7.99
+0.16
+100.00
+Jan
+24,149.40
+78,485.53
+42,561.76
+19,238.0313,507.94
+15,814.03
+795.39
+194,552.08
+12.41
+40.34
+21.88
+9.89
+6.94
+8.13
+0.41
+100
+F eb
+18,299.60
+61,001.63
+52,684.59
+19,677.5710,252.53
+12,372.16
+1,004.97
+175,293.05
+10.44
+34.80
+30.06
+11.23
+5.85
+7.06
+0.57
+100
+2023*
+M ar A p r
+37,026.65 24,920.63
+81,474.64 68,938.22
+47,773.09 60,754.97
+21,218.23 20,781.2514,374.19
+11,152.50
+13,070.77 21,040.99
+1,487.97 704.90
+216,425.53 208,293.45
+17.11 11.96
+37.65 33.10
+22.07 29.17
+9.80 9.98
+6.64 5.35
+6.04 10.10
+0.69 0.34
+100 100
+M ay
+32,688.05
+83,470.09
+54,452.48
+25,102.6015,614.61
+17,867.21
+1,084.19
+230,279.22
+14.19
+36.25
+23.65
+10.90
+6.78
+7.76
+0.47
+100
+K S h M illio n
+Ju n e Ju ly
+36,191.35 26,470.50
+73,833.28 64,572.71
+47,925.82 42,793.08
+23,687.25 27,580.7112,703.16
+13,596.96
+15,045.76 15,761.08
+779.78 916.66
+210,166.39 191,691.69
+17.22 13.81
+35.13 33.69
+22.80 22.32
+11.27 14.39
+6.04 7.09
+7.16 8.22
+0.37 0.48
+100 100
+Table 14 (c): Mobile Money Transactions
+As at the end of month Mobile money Mobile money Number of Value (KSh
+Agents subscriptions Transactions billions)2
+(millions) (millions)1
+2022
+January 2 99,860.00 6 8.28 1 81.85 5 85.82
+February 3 01,108.00 6 7.94 1 71.39 5 68.71
+March 3 02,837.00 6 8.62 1 95.82 6 64.31
+April 2 95,237.00 6 8.72 1 88.24 6 63.53
+May 3 05,830.00 7 0.03 1 92.95 6 92.62
+June 3 04,693.00 7 0.33 1 86.20 6 65.09
+July 3 09,856.00 7 1.58 1 94.77 7 22.52
+August 3 10,450.00 7 0.06 1 84.81 6 77.36
+September 3 08,799.00 7 1.67 1 89.70 6 74.47
+October 3 11,957.00 7 3.22 1 96.93 6 46.50
+November 3 15,240.00 7 3.22 1 90.46 6 39.84
+December 3 17,983.00 7 3.12 2 07.01 7 08.06
+2023
+January 3 19,079.00 7 4.41 1 98.31 5 89.30
+February 3 23,613.00 7 4.04 1 84.82 5 78.09
+March 3 21,149.00 7 3.72 2 04.83 6 45.80
+April 3 29,968.00 7 5.96 1 94.95 6 15.25
+May 3 34,726.00 7 7.34 2 05.88 6 70.44
+June 3 28,543.00 7 6.99 1 97.42 6 43.76
+July 3 30,912.00 7 7.21 2 02.85 6 84.64
+Source: Central Bank of Kenya
+1 Total agent cash in cash out
+2Total agent cash in cash outTable 14(d): International trade in ICT
+KSh Million
+2022 2023
+Imports Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul
+Office machines 1 2 87.78 9 60.80 4 98.70 2 39.18 4 51.02 2 14.60 1 30.07 1 21.29 1 17.06 8 8.87 1 70.01 1 95.31 ..
+Automatic data processing machines, storage units etc 1 ,157.23 1 ,027.41 7 51.63 1 ,285.72 1 ,262.73 1 ,000.59 7 77.24 1 ,242.01 1 ,422.46 8 48.26 1 ,948.65 2 ,144.69 ..
+Part and accessories 2 4 3.40 9 9.12 1 56.69 6 7.56 9 2.37 9 5.39 2 15.11 1 08.55 1 40.41 4 3.27 1 02.49 7 1.72 ..
+Monitors and projectors and reception apparatus for television3 8 39.25 8 89.50 5 70.06 8 46.66 9 49.42 5 97.69 5 13.19 5 21.09 5 67.90 6 29.62 5 05.79 5 48.67 ..
+Reception apparatus for radio broadcasting4 1 8.02 2 1.21 1 9.29 2 6.50 1 8.38 2 3.32 1 7.63 4 .82 3 2.44 1 4.77 5 .27 1 7.53 ..
+Recording equipments 5 1 6.13 1 4.56 9 .14 1 2.44 1 4.37 7 .14 2 7.53 1 8.91 2 1.53 1 4.39 3 1.88 1 4.52 ..
+Telecommunications equipment 6 2 ,794.52 2 ,393.35 1 ,563.47 1 ,509.80 2 ,153.43 1 ,669.76 1 ,546.40 2 ,327.23 1 ,479.32 3 ,116.44 1 ,762.54 1 ,504.51 ..
+Exports
+Office machines 1 0 .29 8 .81 8 .30 0 .99 4 .24 1 8.24 6 .74 4 .69 1 .38 3 .90 1 4.78 5 .94 ..
+Automatic data processing machines, storage units etc 2 6.27 2 1.77 9 2.84 5 6.15 2 4.18 1 6.47 1 9.57 1 43.81 1 26.97 1 04.74 6 2.89 2 6.05 ..
+Part and accessories 2 3 .88 4 .20 1 4.88 6 .96 6 .89 3 .58 7 .90 4 .79 5 .43 3 4.18 2 0.44 7 .41 ..
+Monitors and projectors and reception apparatus for television3 4 .52 1 2.74 1 2.23 1 0.66 4 .62 5 .31 1 2.03 3 1.65 1 2.06 2 0.70 2 2.76 8 .88 ..
+Reception apparatus for radio broadcasting4 0 .04 0 .01 0 .01 - 0 .04 0 .02 0 .01 0 .00 - 0 .13 0 .11 ..
+Recording equipments 5 0 .02 1 .97 2 .69 4 .84 0 .17 2 .42 0 .17 0 .01 0 .05 0 .16 0 .41 0 .16 ..
+Telecommunications equipment 6 6 0.23 2 46.20 2 1.64 3 5.74 1 7.57 4 1.28 8 9.00 2 10.03 6 7.36 4 04.46 5 9.98 6 9.79 ..
+Source; Kenya Revenue Authority (KRA)
+1 Electronic calculating machines, cash registers, accounting machines, postage-
+2 For office machines and data processing machines
+3 Include Television sets, decoders etc
+4 Whether or not combined with sound recording or reproducing apparatus or a
+5 Sound recording, video recording or reproducing apparatus including or not
+6 Such as computer, laptops, networking equipments etc plus their parts and
+accessories such as telephone sets, microphones,electric sound amplifier sets
+Television cameras, digital or video cameras recorders, radio or tv transmission
+apparatus etc
+_ No data
+.. Data not available
+26Table 15(a): Local Electricity Generation by Source
+KWh Million
+Geo - Co-
+Month Hydro Thermal1 Wind Solar Total
+Thermal Generation
+2022
+January 320.30 310.79 206.26 156.28 32.41 0.00 1,026.03
+February 244.23 304.77 223.97 123.29 30.09 0.05 926.40
+March 243.20 410.35 170.16 201.76 35.14 0.01 1,060.62
+April 228.86 441.39 125.82 179.24 31.04 0.04 1,006.39
+May 284.04 521.44 79.71 152.76 33.21 0.03 1,071.19
+June 264.86 493.85 83.10 181.07 28.20 0.02 1,051.10
+July 252.39 520.69 104.36 208.40 24.71 0.02 1,110.57
+August 256.76 513.48 120.54 185.70 22.43 0.02 1,098.92
+September 243.89 487.63 118.11 200.56 26.32 0.01 1,076.52
+October 247.42 478.09 96.53 237.49 38.77 - 1,098.30
+November 233.02 494.27 123.62 177.13 38.81 0.04 1,066.89
+December 220.92 540.80 132.92 139.35 42.41 0.02 1,076.42
+2023*
+January 185.20 524.82 107.32 203.31 46.69 0.02 1,067.36
+February 112.91 472.15 142.35 190.65 42.85 - 960.91
+March 125.98 509.36 166.86 152.35 40.59 - 995.14
+April 190.85 476.33 119.53 157.00 39.41 - 983.12
+May 237.88 510.83 95.38 181.72 44.28 - 1,070.09
+June 257.94 504.57 68.13 168.06 36.66 - 1,035.36
+July 276.00 494.81 108.29 198.46 37.90 - 1,115.46
+Source: Kenya Power
+*Provisional
+1 Includes all offgrid power -
+Figure 7: Electricity Generation by Source
+27Table 15(b): Generation and Consumption of Electricity
+Million KWh
+Generation Consumption
+Imports Exports
+Month
+Local
+Generat
+ion
+Uganda Ethiopi
+a
+Total
+Imports
+Total
+Generat
+ion
+Total KPLC Sales
+Uganda
+Total
+Exports
+2022
+January 1 ,026.03 30.34 0.49 3 0.83 1,056.87 826.80 0 .85 0 .85
+February 9 26.40 34.14 0.46 3 4.60 961.00 760.20 0 .18 0 .18
+March 1 ,060.62 31.07 0.53 3 1.60 1,092.22 .831.21 0 .95 0 .95
+April 1 ,006.39 27.00 0.42 2 7.42 1,033.81 8 03.56 1 .40 1 .40
+May 1 ,071.19 23.86 0.47 2 4.33 1,095.52 8 47.54 2 .05 2 .05
+June 1 ,051.10 23.39 0.43 2 3.82 1,074.92 8 49.10 1 .68 1 .68
+July 1 ,110.57 18.88 0.48 1 9.35 1,129.92 8 62.05 3 .16 3 .16
+August 1 ,098.92 16.03 0.50 1 6.52 1,115.44 8 26.82 4 .27 4 .27
+September 1 ,076.52 23.84 0.48 2 4.32 1,100.84 8 55.34 1 .50 1 .50
+October 1 ,098.30 26.01 0.46 2 6.47 1,124.77 8 62.00 1 .54 1 .54
+November 1 ,066.89 22.91 6.10 2 9.01 1,095.90 8 54.70 1 .98 1 .98
+December 1 ,076.42 25.94 1.79 2 7.73 1,104.15 8 29.06 1 .79 1 .79
+2023*
+January 1 ,067.36 28.75 39.73 6 8.48 1,135.84 8 70.84 1 .83 1 .83
+February 9 60.91 18.76 65.52 8 4.28 1,045.19 8 28.70 2 .51 2 .51
+March 9 95.14 22.50 113.04 1 35.54 1,130.68 8 47.47 2 .58 2 .58
+April 9 83.12 24.17 70.50 9 4.67 1,077.79 8 44.34 1 .89 1 .89
+May 1 ,070.09 25.80 33.93 5 9.73 1,129.82 8 73.24 1 .55 1 .55
+June 1 ,035.36 21.25 34.72 5 5.97 1,091.33 8 50.53 2 .31 2 .31
+July 1 ,115.46 1 9.23 2 0.64 3 9.87 1,158.85 8 81.01 2 .91 2 .91
+Source: Kenya Power
+*Provisional
+28Table 15(c): Consumption of Petroleum Fuels
+29
+A G O
+M o n t h ( L ig h t
+D ie s e l O il)
+2 0 2 2
+J a n u a r y ...... 1 8 4 .8 4
+F e b r u a r y .... 1 9 1 .9 6
+M a r c h ......... 2 0 3 .5 4
+A p r il............ 1 8 6 .3 7
+M a y ............ 1 9 4 .1 8
+J u n e ........... 1 8 9 .7 7
+J u ly ............ 1 9 6 .3 8
+A u g u s t........ 1 8 4 .0 7
+S e p te m b e r .. 1 9 0 .2 5
+O c to b e r ...... 1 8 0 .1 7
+N o v e m b e r .. 1 8 4 .0 2
+D e c e m b e r .. 1 8 4 .4 4
+2 0 2 3 *
+J a n u a r y ...... 1 7 8 .9 6
+F e b r u a r y .... 1 7 3 .6 9
+M a r c h ......... 1 9 5 .6 7
+A p r il............ 1 6 6 .2 1
+M a y ............ ..
+J u n e ........... ..
+J u ly ............ ..
+S o u rc e :M in is try o f E n e rg y a
+M T : D e n o te s M e tric T o n n e s
+* P ro v is io n a l
+.. D a ta n o t a v a ila b le
+n d P
+J e t
+3 9 .6
+4 8 .7
+5 0 .6
+4 7 .8
+4 9 .2
+4 8 .7
+5 2 .6
+5 1 .2
+5 0 .0
+5 3 .2
+4 8 .0
+5 4 .4
+5 3 .0
+5 1 .7
+5 4 .4
+5 0 .8
+..
+..
+..
+e tro le
+7
+2
+7
+4
+6
+6
+1
+1
+7
+5
+2
+4
+8
+7
+1
+6
+u m a n d
+F
+E
+u
+2
+3
+3
+3
+1
+1
+2
+2
+2
+2
+3
+4
+2
+3
+5
+3
+n
+e l O il
+2 .7 8
+0 .2 8
+9 .9 4
+3 .0 9
+6 .7 6
+4 .3 7
+6 .0 3
+5 .4 8
+7 .8 1
+9 .2 1
+0 .5 8
+0 .7 3
+9 .1 9
+4 .3 0
+8 .9 9
+3 .6 0
+..
+..
+..
+e rg y & P e tro
+M o t o r
+S p ir it
+1 3 7 .2 7
+1 2 2 .4 4
+1 2 6 .3 3
+1 3 0 .2 7
+1 2 5 .4 6
+1 2 8 .5 8
+1 2 5 .5 6
+1 2 5 .6 5
+1 1 8 .9 9
+1 1 3 .0 6
+1 1 8 .2 7
+1 3 5 .7 8
+1 2 6 .6 5
+1 1 8 .7 8
+1 3 1 .4 0
+1 1 9 .0 9
+..
+..
+..
+le u m R e g u
+I llu m in a t in g
+K e r o s e n e
+6 .7 8
+6 .5 8
+8 .1 3
+7 .4 9
+9 .0 1
+8 .2 5
+8 .0 7
+7 .3 1
+7 .5 8
+6 .7 6
+6 .7 0
+6 .7 0
+6 .5 5
+6 .1 3
+6 .0 6
+4 .8 5
+..
+..
+..
+la to ry A u th o rity (E
+D
+P
+I D O
+( H e a v yie
+s e l O
+0 .0 0
+0 .0 0
+0 .0 0
+0 .0 0
+0 .0 0
+0 .0 0
+0 .0 0
+0 .0 0
+0 .0 0
+0 .0 0
+0 .0 0
+0 .0 0
+0 .0 0
+0 .0 0
+0 .0 0
+0 .0 0
+..
+..
+..
+R A )
+il)
+L
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+P G
+8 .0
+5 .9
+5 .9
+4 .8
+9 .1
+6 .3
+9 .0
+8 .7
+9 .3
+7 .4
+9 .5
+9 .5
+8 .4
+5 .7
+8 .1
+7 .9
+..
+..
+..
+7
+4
+3
+3
+1
+4
+2
+9
+1
+4
+1
+3
+6
+5
+0
+9
+AG va
+‘0 0 0 M
+ia t io ns
+o lin e
+0 .0 7
+0 .0 9
+0 .0 7
+0 .0 7
+0 .0 5
+0 .0 6
+0 .0 8
+0 .0 9
+0 .0 9
+0 .0 9
+0 .0 7
+0 .0 8
+0 .0 8
+0 .3 9
+0 .1 0
+0 .0 5
+..
+..
+..
+TTable 15(d): Average Retail Prices for Selected Fuel Products within Nairobi
+KSh per litre
+Motor
+Light Diesel Illuminating
+Period Gasoline
+Oil (Gasoil) Kerosene
+Premium
+2022
+January 129.72 129.72 103.54
+February 129.72 129.72 103.54
+March 113.44 144.62 125.5
+April 144..62 125.5 113.44
+May 150.12 131.00 118.94
+June 159.12 140.00 127.94
+July 159.12 140.00 127.94
+August 159.12 140.00 127.94
+September 179.30 165.00 147.94
+October 178.30 163.00 146.94
+November 177.30 162.00 145.94
+December 177.30 162.00 145.94
+2023
+January 177.30 162.00 145.94
+February 177.30 162.00 145.94
+March 179.30 162.00 145.94
+April 179.30 162.00 145.94
+May 182.70 168.40 161.13
+June 182.04 167.28 161.48
+July 194.68 179.67 169.48
+30Table 15(e): Average Retail Prices for Selected Fuels in Kenya (National Average Retail Prices)
+31
+P
+2
+J
+F
+M
+A
+M
+J
+J
+A
+S
+O
+N
+D
+2
+J
+F
+M
+A
+M
+J
+J
+e r io d
+0 2 2
+a n u a r y ............................
+e b r u a r y ..........................
+a r c h ...............................
+p r il..................................
+a y ..................................
+u n e .................................
+u ly ..................................
+u g u s t..............................
+e p te m b e r ........................
+c to b e r ............................
+o v e m b e r ........................
+e c e m b e r ........................
+0 2 3
+a n u a r y ............................
+e b r u a r y ..........................
+a r c h ...............................
+p r il..................................
+a y ..................................
+u n e .................................
+u ly ..................................
+M o t o rG
+a s o lin eP
+r e m iu m(
+K S h p e rL
+it r e )
+1 3 0 .5 4
+1 3 0 .5 4
+1 3 5 .5 4
+1 4 5 .4 4
+1 5 0 .9 4
+1 5 9 .9 4
+1 5 9 .9 4
+1 5 9 .9 4
+1 8 0 .0 5
+1 7 9 .0 6
+1 7 8 .0 5
+1 7 8 .0 5
+1 7 8 .0 5
+1 7 8 .0 5
+1 8 0 .0 5
+1 8 0 .0 5
+1 8 3 .2 9
+1 8 2 .6 3
+1 9 5 .3 2
+L ig h t
+D ie s e l O il
+( K S h p e r
+L it r e )
+1 1 1 .5 1
+1 1 1 .5 1
+1 1 6 .5 1
+1 2 6 .4 1
+1 3 1 .9 1
+1 4 0 .9 1
+1 4 0 .9 1
+1 4 0 .9 1
+1 6 5 .9 1
+1 6 3 .9 2
+1 6 2 .9 1
+1 6 2 .9 1
+1 6 2 .9 1
+1 6 2 .9 1
+1 6 2 .9 1
+1 6 2 .9 1
+1 6 9 .1 0
+1 6 7 .9 8
+1 8 0 .4 2
+I llu m inK
+e r o(
+K S
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+ashL
+0
+0
+0
+1
+1
+2
+2
+2
+4
+4
+4
+4
+4
+4
+4
+4
+6
+6
+7
+t in ge
+n e
+p e rit
+r e )
+6 .4 6
+6 .4 6
+4 .4 6
+4 .3 6
+9 .8 6
+8 .8 6
+8 .8 6
+8 .8 6
+8 .8 6
+7 .8 7
+6 .8 6
+6 .8 6
+6 .8 6
+6 .8 6
+6 .8 6
+6 .8 6
+1 .8 3
+2 .1 9
+0 .2 5
+( K S h p
+2 ,6
+2 ,6
+2 ,8
+2 ,9
+3 ,1
+3 ,2
+3 ,1
+3 ,1
+3 ,1
+3 ,0
+3 ,0
+2 ,9
+2 ,9
+3 ,1
+3 ,1
+3 ,1
+3 ,1
+3 ,0
+2 ,7
+L
+e
+5
+5
+6
+2
+7
+1
+0
+0
+0
+8
+0
+8
+6
+0
+3
+3
+2
+6
+8
+.P .G
+r 1 3
+K g )
+9 .2 4
+9 .7 0
+6 .2 0
+4 .5 9
+6 .8 8
+8 .2 2
+0 .6 7
+3 .1 7
+6 .6 6
+3 .9 9
+4 .7 5
+0 .8 0
+1 .9 3
+1 .9 4
+7 .7 0
+5 .3 9
+5 .4 0
+9 .0 1
+7 .8 3
+C h a r c o a l ( K Sp
+e r K g
+6 3 .1
+6 3 .7
+6 2 .8
+6 2 .4
+6 3 .6
+6 4 .8
+6 5 .3
+6 6 .8
+6 7 .8
+6 8 .1
+6 8 .0
+6 7 .9
+6 8 .1
+6 8 .4
+6 9 .5
+7 0 .0
+7 0 .4
+7 1 .0
+7 0 .9
+h
+)
+1
+1
+5
+0
+9
+3
+0
+1
+1
+7
+0
+3
+1
+3
+0
+1
+7
+3
+5
+Figure 8: Average Prices for Liquefied Petroleum Gas in Kenya per 13 Kg cylinderTable 15(f): Opec Reference basket and Murban Crude Oil Prices
+32
+U S $ / B B L
+M o n th /Y e a r 2 0 1 9 2 0 2 0 2 0 2 1 2 0 2 2 2 0 2 3
+J a n u a ry ............. 6 0 .8 1 6 6 .0 9 5 4 .3 8 8 5 .4 1 8 1 .6 2
+F e b ru a ry ........... 6 5 .6 4 5 5 .5 3 6 1 .0 5 9 3 .9 5 8 1 .8 8
+M a rc h ................ 6 8 .6 0 3 3 .9 2 6 4 .5 6 1 1 3 .4 8 7 8 .4 5
+A p ril................... 7 3 .0 5 1 7 .6 6 6 3 .2 4 1 0 5 .6 4 8 4 .1 3
+M a y ................... 6 9 .7 0 2 5 .1 7 6 6 .9 1 1 1 3 .8 7 7 5 .8 2
+J u n e .................. 6 2 .7 5 3 7 .0 5 7 1 .8 9 1 1 7 .7 2 7 5 .1 9
+J u ly ................... 6 4 .8 6 4 3 .4 2 7 3 .5 3 1 0 8 .5 5 8 1 .0 6
+A u g u s t............... 6 0 .1 6 4 5 .1 9 7 0 .3 3 1 0 1 .9 0
+S e p te m b e r......... 6 2 .3 9 4 1 .5 4 7 3 .8 8 9 5 .3 2
+O c to b e r............. 6 0 .8 8 4 0 .0 8 8 2 .1 1 9 3 .6 2
+N o v e m b e r......... 6 3 .4 8 4 2 .6 1 8 0 .3 7 8 9 .7 3
+D e c e m b e r......... 6 6 .6 6 4 9 .1 7 7 4 .3 8 7 9 .6 1
+U S $ / B B L : U S D o lla r p e r B a rre l
+P ric e :A b u D h a b i F re e O n B o a rd (F O B )
+A D N O C : A b u D h a b i N a tio n a l O il C o rp o ra tio n
+* A s fro m F e b 2 0 2 0 a ll p ric e s p u b lis h e d w ill re fe r to th e O P E C re fe re n c e b a s k e t a s d e fin e d b y th
+* A s fro m F e b 2 0 2 0 a ll p ric e s p u b lis h e d a re c ru d e s p o t p ric e s o n th e 2 0 th o f th e re fe re n c e m o n th
+M o n th ly O il M a rk e t re p o rt O P E C
+e M o n th ly o il m a rk e t re p o rt
+Table 16: Value of Building Plans Approved for Nairobi City County
+KSh Million
+Actual Value of Buildings Real *
+Non Non
+Month Residential Total Residential Total
+Residential Residential
+2022
+January......................................................... 1 3,430.32 5 ,501.79 1 8,932.11 1 2,428.58 5 ,091.42 1 7,520.00
+February....................................................... 6 ,879.27 4 ,476.99 1 1,356.27 6 ,366.16 4 ,143.06 1 0,509.22
+March............................................................ 1 5,672.26 3 ,619.89 1 9,292.14 1 4,503.29 3 ,349.88 1 7,853.18
+April............................................................... 1 8,139.51 3 ,482.23 2 1,621.74 1 6,786.52 3 ,222.50 2 0,009.02
+May............................................................... 4 ,384.84 1 ,683.70 6 ,068.54 4 ,057.78 1 ,558.11 5 ,615.90
+June.............................................................. 5 ,133.29 2 ,826.93 7 ,960.21 4 ,750.40 2 ,616.07 7 ,366.47
+July............................................................... 1 7,389.03 2 ,011.23 1 9,400.26 1 6,092.01 1 ,861.21 1 7,953.23
+August........................................................... 4 ,853.39 2 ,493.14 7 ,346.53 4 ,491.38 2 ,307.18 6 ,798.57
+September..................................................... 1 4,860.10 3 ,699.43 1 8,559.53 1 3,751.71 3 ,423.50 1 7,175.21
+October......................................................... 7 ,603.60 9 41.95 8 ,545.54 7 ,036.46 8 71.69 7 ,908.14
+November..................................................... 4 ,283.15 1 ,500.84 5 ,784.00 3 ,963.68 1 ,388.90 5 ,352.58
+December..................................................... 1 4,774.87 2 ,812.47 1 7,587.34 1 3,672.84 2 ,602.69 1 6,275.53
+2023
+January......................................................... 2 3,440.38 2 26.39 2 3,666.77 2 0,843.31 2 01.30 2 1,044.61
+February....................................................... 1 8,169.35 6 01.63 1 8,770.98 1 6,156.28 5 34.97 1 6,691.25
+March............................................................ 1 6,265.27 5 ,077.56 2 1,342.83 1 4,463.16 4 ,514.99 1 8,978.15
+April............................................................... 8 ,427.47 2 ,559.41 1 0,986.88 7 ,493.75 2 ,275.84 9 ,769.59
+May............................................................... 6 ,538.26 8 91.93 7 ,430.20 5 ,813.86 7 93.11 6 ,606.97
+June.............................................................. 6 ,950.15 3 ,096.78 1 0,046.93 6 ,180.11 2 ,753.67 8 ,933.78
+July............................................................... 2 2,777.91 3 ,319.95 2 6,097.86 2 0,254.24 2 ,952.11 2 3,206.35
+Source; Nairobi City County
+* Actual deflated by new Construction Input Price Indices beginning June 2021Table 17(a): Domestic Production of Sugar
+33
+M o n th /Y e a r
+J a n u a ry
+F e b ru a ry
+M a rc h
+A p ril
+M a y
+J u n e
+J u ly
+A u g u s t
+S e p te m b e r
+O c to b e r
+N o v e m b e r
+D e c e m b e r
+T o ta l
+S o u rc e :A g ric u
+* P ro v is io n a l
+ltu re a n d F o
+2
+6 2
+5 3
+4 9
+3 6
+2 8
+2 8
+3 0
+3 5
+4 0
+4 5
+4 1
+3 8
+4 9 1
+o d A
+,0 1
+,8 1
+,8 3
+,1 4
+,6 8
+,9 3
+,3 2
+,2 6
+,6 7
+,7 2
+,3 2
+,1 0
+,2 6
+,0 9
+u th
+8
+9
+5
+8
+2
+3
+0
+0
+6
+5
+4
+7
+8
+7
+o
+2 ,0 1 9
+5 3 ,0 6 0
+4 6 ,1 3 9
+4 5 ,4 6 3
+3 5 ,3 1 2
+3 6 ,3 0 7
+2 8 ,5 4 5
+2 5 ,0 9 7
+3 2 ,8 3 5
+3 3 ,3 5 6
+3 5 ,2 5 9
+3 0 ,9 0 0
+3 8 ,6 6 2
+4 4 0 ,9 3 5
+rity ; S u g a r D ire c to ra
+2 ,0 2 0
+5 3 ,1 5 5
+5 1 ,0 8 3
+5 2 ,6 9 9
+4 5 ,4 6 8
+4 6 ,3 5 0
+4 9 ,6 8 0
+5 3 ,1 5 5
+5 3 ,4 3 4
+5 4 ,8 7 3
+5 4 ,8 3 0
+5 0 ,2 2 7
+3 8 ,8 3 4
+6 0 3 ,7 8 8
+te
+2 ,0 2 1
+5 8 ,0 4 4
+6 1 ,5 0 8
+6 6 ,1 9 4
+5 8 ,4 0 4
+5 7 ,7 9 6
+5 8 ,9 6 8
+5 7 ,5 1 3
+6 4 ,1 3 4
+4 5 ,3 4 7
+4 9 ,8 9 9
+6 0 ,0 2 2
+6 2 ,3 3 3
+7 0 0 ,1 6 2
+2 ,0 2 2
+6 4 ,8 3 9
+6 4 ,1 9 1
+7 9 ,4 4 8
+6 8 ,5 0 8
+6 3 ,2 0 9
+7 0 ,3 7 6
+7 0 ,2 7 8
+4 6 ,4 6 0
+6 0 ,3 8 8
+7 6 ,5 3 3
+6 7 ,9 9 0
+6 3 ,2 7 9
+7 9 6 ,6 0 0
+M e tr ic to n n e s
+2 0 2 3 *
+8 1 ,6 4 8
+6 7 ,4 8 6
+4 9 ,7 6 1
+3 1 ,9 2 0
+3 1 ,4 9 5
+3 4 ,3 7 3
+3 3 ,3 2 8
+3 3 0 ,0 1 1
+Table 17(b): Production of Soft Drinks
+‘000 Litres
+Month 2018 2019 2020 2021 2022 2023*
+January 52,062 53,585 52,654 50,153 46,537 52,571
+February 49,685 55,218 42,072 42,749 44,407 48,988
+March 52,580 61,413 52,109 53,157 61,898 55,405
+April 45,690 58,230 35,951 43,742 45,868 ..
+May 41,482 53,086 34,129 38,327 44,289 ..
+June 44,827 46,074 47,273 46,518 45,640 ..
+July 43,725 47,149 39,833 33,864 35,855 ..
+August 48,795 49,248 39,290 42,744 38,842
+September 45,956 53,234 52,436 53,923 50,841
+October 46,546 47,586 47,215 52,394 50,393
+November 50,201 50,715 42,916 55,226 52,363
+December 54,021 55,398 64,707 57,993 62,536
+Total 575,569 630,936 550,585 570,792 579,469
+* provisional
+..Data not availableTable 17(c): Production of Assembled Vehicles
+Numbers
+Month/Year 2018 2019 2020 2021 2022 2023*
+January 3 95 4 31 6 14 5 60 9 25 1 ,135
+February 5 29 6 14 8 61 5 65 1 ,263 9 80
+March 5 48 6 33 8 30 7 05 1 ,245 1 ,214
+April 4 09 7 39 6 69 7 37 1 ,348 9 72
+May 4 07 7 32 6 59 6 09 1 ,483 1 ,235
+June 3 66 5 56 4 15 5 76 1 ,186 ..
+July 5 87 6 48 7 35 7 98 1 ,246 ..
+August 4 34 7 09 5 95 9 62 1 ,036
+September 6 06 5 95 5 91 1 ,173 1 ,320
+October 5 69 7 28 6 76 1 ,138 1 ,004
+November 4 76 8 72 5 33 9 68 7 98
+December 3 27 5 45 5 47 1 ,198 6 19
+Total 5 ,653 7 ,802 7 ,725 9 ,989 1 3,473 5 ,536
+* Provisional
+.. Data not available
+Table 17(d): Production of Galvanized Sheets
+34
+M o n t h /Y e a r
+J a n u a r y .........
+F e b r u a r y .......
+M a r c h ............
+A p r il...............
+M a y ...............
+J u n e ..............
+J u ly ................
+A u g u s t...........
+S e p te m b e r .....
+O c to b e r ..........
+N o v e m b e r .....
+D e c e m b e r
+T o t a l
+* P r o v is io n a l
+.. D a ta n o t a v a ila b
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2 6
+le
+2 0
+3 ,9
+1 ,8
+2 ,0
+1 ,4
+2 ,2
+1 ,4
+2 ,5
+1 ,8
+2 ,4
+3 ,9
+2 ,8
+1 ,2
+7 ,8
+1
+1
+9
+4
+3
+7
+3
+1
+4
+2
+0
+7
+6
+2
+8
+9
+0
+8
+4
+1
+4
+0
+7
+5
+6
+7
+6
+8 2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+7
+2 0
+0 ,1
+2 ,7
+6 ,3
+3 ,2
+2 ,5
+4 ,6
+3 ,2
+1 ,9
+2 ,6
+2 ,6
+1 ,8
+2 ,5
+4 ,4
+1
+2
+4
+1
+1
+0
+6
+6
+1
+4
+1
+7
+4
+2
+9
+4
+9
+3
+4
+1
+7
+0
+8
+1
+9
+1
+7
+5 2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+2
+2
+4
+2 0
+3 ,3
+1 ,9
+8 ,5
+6 ,2
+8 ,0
+3 ,7
+4 ,4
+3 ,2
+0 ,8
+2 ,8
+3 ,2
+0 ,8
+7 ,4
+2
+9
+8
+2
+5
+4
+3
+9
+2
+0
+6
+6
+5
+5
+0
+7
+9
+7
+9
+2
+0
+3
+6
+1
+8
+8
+4
+5 2
+1
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+5
+2 0
+8 ,6
+0 ,7
+1 ,7
+1 ,5
+1 ,1
+2 ,3
+0 ,4
+9 ,7
+7 ,5
+0 ,1
+5 ,9
+0 ,3
+0 ,4
+2
+3
+6
+8
+7
+6
+6
+3
+4
+8
+1
+2
+4
+1
+1
+1
+2
+1
+2
+5
+5
+2
+4
+1
+1
+6
+8
+8 2
+2
+2
+1
+1
+2
+2
+2
+1
+2
+1
+2
+1
+4
+M
+2 0
+1 ,5
+1 ,6
+9 ,6
+9 ,4
+3 ,3
+2 ,0
+0 ,8
+7 ,0
+1 ,8
+9 ,9
+0 ,5
+7 ,6
+5 ,7
+e
+2
+4
+7
+1
+7
+8
+7
+9
+6
+3
+5
+8
+8
+8
+t
+2
+6
+1
+6
+9
+3
+3
+5
+4
+3
+1
+9
+6
+8
+r ic T o
+1
+1
+1
+5
+n
+2
+7
+8
+9
+4
+n
+0 2
+,3
+,4
+,0
+,8
+e
+3
+5
+5
+9
+9
+s
+*
+0
+4
+0
+..
+..
+..
+..
+4Table 17(e): Cement Production and Consumption
+Tonnes
+2021 2022 2023*
+Month/Year
+Production Consumption Production Consumption Production Consumption
+January............. 6 69,530 6 63,795 855,883 8 45,087 8 11,864 773,021
+February........... 6 12,980 6 06,204 818,496 7 98,007 7 71,004 743,276
+March................ 7 21,444 7 15,968 911,250 8 77,874 8 39,348 8 09,420
+April................... 695,953 6 84,497 842,239 8 19,889 7 69,259 7 42,272
+May................... 7 17,669 7 07,536 752,698 7 17,566 8 18,697 7 77,697
+June................... 6 98,424 6 85,697 773,153 7 45,289 .. ..
+July.................... 8 76,998 8 61,938 804,401 7 78,142 .. ..
+August................ 8 96,825 8 79,063 745,559 7 17,267
+September......... 8 66,344 8 56,980 829,930 7 99,592
+October.............. 8 92,975 8 70,442 824,474 8 00,673
+November.......... 8 07,553 7 88,229 821,768 7 97,912
+December.......... 7 91,050 7 78,088 774,124 7 52,852
+TOTAL............... 9 ,247,745 9 ,098,436 9,753,975 9 ,450,150 4 ,010,171 3 ,845,686
+*Provisional
+.. Data not available
+Table 17(f): Milk Intakes in the Formal Sector
+Million Litres
+Month/Year............ 2018 2019 2020 2021 2022 2023*
+January................... 51.55 68.07 63.39 63.80 69.36 62.09
+February................. 47.30 54.66 53.88 64.62 66.42 52.21
+March...................... 49.85 54.33 56.09 62.79 61.76 52.19
+April......................... 52.01 41.46 48.61 53.32 61.78 59.49
+May......................... 49.63 48.29 49.36 77.33 64.29 73.78
+June........................ 50.33 52.33 53.24 74.07 65.69 71.69
+July.......................... 53.18 63.54 54.31 69.49 61.23 ..
+August..................... 52.56 60.46 59.31 67.75 59.12
+September............... 56.37 63.21 58.04 72.04 66.62
+October.................... 55.25 59.32 59.71 66.59 60.51
+November............... 57.02 51.30 60.58 65.22 58.31
+December................ 68.15 68.91 67.86 64.89 59.27
+Total....................... 643.20 685.87 684.38 801.91 754.35 371.45
+Source: Kenya Dairy Board
+* Provisional
+.. Data not available
+35Figure 9: Milk Intake in the Formal Sector
+Table 18: Visitor Arrivals through JKIA and MIA
+Numbers1
+AIRPORT
+Month
+JKIA MIA Total
+2022
+January 63,277 6,655 69,932
+February 67,560 6,390 73,950
+March 76,336 5,073 81,409
+April 77,379 3,949 81,328
+May 87,058 3,429 90,487
+June 103,332 4,834 108,166
+July 118,347 6,580 124,927
+August 103,163 7,892 111,055
+September 100,682 6,240 106,922
+October 105,318 8,663 113,981
+November 96,533 11,321 107,854
+December 113,630 15,086 128,716
+2023*
+January 98,059 15,989 114,048
+February 99,432 14,863 114,295
+March 95,560 14,034 109,594
+April 81,339 7,315 88,654
+May 90,752 5,493 96,245
+June 124,483 7,814 132,297
+July 145,859 12,241 158,100
+1 Visitor arrivals exclude Kenyans
+* Provisional
+36Figure 10: Visitor Arrivals through JKIA and MIA
+37Table 19(a): Jomo Kenyatta international Airport-Embarked Passengers by Port of Destination
+Number
+2022 2023*
+PORTS/MONTH Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul
+Amsterdam 12,929 16,425 14,946 14,804 11,462 13,164 16,068 15,003 15,442 11,682 11,749 13,444 ..
+Brussels 0 0 0 0 6 0 5,729 4,586 5,623 4,944 5,142 7,166 ..
+London 13,788 15,444 13,761 13,940 12,648 15,340 19,834 15,967 17,636 17,216 16,746 18,665 ..
+Paris 12,209 14,840 11,342 11,660 13,007 14,625 13,582 12,960 14,523 12,055 14,951 13,351 ..
+Zurich 0 0 0 0 0 0 6,799 5,576 6,513 4,586 4,346 4,151 ..
+Other Europe 11,481 11,970 10,217 10,185 11,114 11,569 93 270 34 15 92 92 ..
+Total Europe 50,407 58,679 50,266 50,589 48,237 54,698 62,105 54,362 59,771 50,498 53,026 56,869 ..
+New York 5,280 4,456 3,004 2,832 2,285 4,055 4,594 2,522 2,715 2,514 3,805 5,554 ..
+Other North America 0 0 0 0 0 0 0 0 0 0 0 0 ..
+Total North America 5,280 4,456 3,004 2,832 2,285 4,055 4,594 2,522 2,715 2,514 3,805 5,554 ..
+Dubai 22545 22769 20919 21510 18950 26,270 23,061 19,999 19,978 20,631 18,891 22,213 ..
+Jeddah 4414 3974 3709 3923 3260 3,841 2,838 1,915 3,908 3,768 1,662 5,937 ..
+Other Middle East 24238 22010 22607 24116 19084 15,529 19,399 17,371 18,567 18,898 18,049 20,263 ..
+Total Middle East 51,197 48,753 47,235 49,549 41,294 45,640 45,298 39,285 42,453 43,297 38,602 48,413 ..
+Mumbai 5,257 4,504 4,630 4,993 4,379 5,941 7,087 6,774 7,345 7,174 6,722 7,887 ..
+Bangkok 473 457 630 630 833 1,814 1,511 305 0 0 0 0 ..
+Other Far East 4,616 3,014 2,607 3,216 4,012 4,172 3,755 3,386 3,207 3,478 4,351 6,880 ..
+Total Far East 10,346 7,975 7,867 8,839 9,224 11,927 12,353 10,465 10,552 10,652 11,073 14,767 ..
+Addis Ababa 16,477 13,951 14,611 17,046 18,836 17,622 15,797 14,710 17,544 14,654 16,553 15,884 ..
+Bujumbura 2,901 2,257 2,080 2,054 1,779 2,377 1,916 2,099 2,241 1,714 2,247 2,500 ..
+Dar-es-alaam 11,072 10,595 10,032 11,429 9,277 11,003 9,289 10,738 10,340 9,699 9,983 10,740 ..
+Entebbe 13,961 11,686 11,474 11,754 10,431 12,633 11,523 11,489 13,232 12,711 13,240 12,933 ..
+Kigali 6,765 5,959 7,460 8,422 8,002 8,422 8,505 7,526 8,490 8,143 8,709 9,205 ..
+Kinshasa 2,139 3,027 2,609 2,330 1,730 2,046 2,217 1,964 2,225 1,913 2,341 1,980 ..
+Other East & Central Africa 6,517 5,639 4,626 11,099 4,127 4,693 5,233 4,834 5,264 3,983 5,113 5,787 ..
+Total East & Central Africa 59,832 53,114 52,892 64,134 54,182 58,796 54,480 53,360 59,336 52,817 58,186 59,029 ..
+Mauritius 2,632 2,687 2,770 3,207 1,867 3,701 1,948 1,890 2,162 2,780 2,673 2,370 ..
+Seychelles 930 1,064 985 1,087 593 723 1,006 881 1,091 1,151 1,051 1,220 ..
+Zanzibar 5,419 5,609 5,141 5,653 3,466 5,790 5,436 5,774 4,256 4,155 3,794 6,687 ..
+Other Indian Ocean Islands 5,272 4,504 3,488 4,679 3,541 4,771 4,390 4,195 4,798 3,326 4,510 5,380 ..
+Total Indian Ocean Islands 14,253 13,864 12,384 14,626 9,467 14,985 12,780 12,740 12,307 11,412 12,028 15,657 ..
+Abidjan 1,059 808 944 1,081 670 1,101 1,273 1,229 1,339 1,083 1,353 1,329 ..
+Douala 152 629 527 632 504 755 784 713 806 1,027 762 713 ..
+Lagos 3,472 3,406 3,959 4,346 4,230 5,730 4,037 3,153 3,397 3,443 4,161 4,016 ..
+Accra 3,262 3,518 3,613 3,910 3,028 4,539 4,214 3,927 4,643 4,502 4,722 4,579 ..
+Other West Africa 43 0 24 18 2 0 5 0 1 16 8 12 ..
+Total West Africa 7,988 8,361 9,067 9,987 8,434 12,125 10,313 9,022 10,186 10,071 11,006 10,649 ..
+Johannesburg 12,435 10,219 9,650 12,072 8,882 12,501 13,663 11,303 13,221 10,870 12,715 12,019 ..
+Harare 1,671 2,034 1,943 1,972 1,517 2,473 2,162 1,757 2,146 2,268 2,244 1,797 ..
+Lilongwe 3,490 3,234 3,021 3,374 2,214 3,094 2,771 2,295 2,982 2,930 3,227 3,187 ..
+Lusaka 2,886 4,079 3,196 3,380 3,103 3,514 3,144 2,794 3,365 3,225 3,261 3,192 ..
+Cape Town 1,042 672 1,230 1,077 683 1,386 1,198 1,389 1,202 917 1,423 1,120 ..
+Other South Africa 2,110 1,355 2,023 2,166 1,453 2,067 2,202 2,479 2,738 2,465 3,085 2,862 ..
+Total Southern Africa 23,634 21,593 21,063 24,041 17,852 25,035 25,140 22,017 25,654 22,675 25,955 24,177 ..
+Cairo 4,529 4,092 3,754 3,419 3,771 3,914 3,737 3,544 3,239 3,079 3,109 3,299 ..
+Khartoum 599 317 310 378 231 373 442 434 422 114 0 31 ..
+Juba 3,847 3,752 4,010 4,069 4,326 4,549 5,367 4,178 4,373 3,441 3,858 3,546 ..
+Other North Africa 67 0 35 1 3 12 59 1 13 0 1 17 ..
+Total North Africa 9,042 8,161 8,109 7,867 8,331 8,848 9,605 8,157 8,047 6,634 6,968 6,893 ..
+Other International 9,090 7,234 6,982 562 6,804 7,306 8,118 8,623 8,399 5,927 9,862 8,335 ..
+Total International 241,069 232,190 218,869 233,026 206,110 243,415 244,786 220,553 239,420 216,497 230,511 250,343 ..
+Source: Kenya Airports Authority
+*Provisional
+.. Data not available
+38Table 19(b): Jomo Kenyatta international Airport- Landed Passengers by Port of Origin
+Number
+2022 2023*
+PORTS/MONTH Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul
+Amsterdam 13,808 13,836 14,433 15,630 11,666 15,180 15,595 14,405 13,343 11,010 12,685 15,096 ..
+Brussels 0 0 0 0 0 0 5,188 4,491 4,691 3,900 4,256 6,936 ..
+London 13,854 14,418 12,493 13,235 12,317 16,979 17,201 14,819 15,302 13,541 15,672 18,663 ..
+Paris 10,270 10,196 8,653 9,018 7,313 10,875 10,524 10,118 8,989 8,666 9,381 13,309 ..
+Zurich 0 0 0 0 0 0 7,339 5,487 5,681 3,819 4,270 4,953 ..
+Other Europe 12,107 10,655 9,277 10,014 11,337 12,557 18 365 245 17 100 243 ..
+Total Europe 50,039 49,105 44,856 47,897 42,633 55,591 55,865 49,685 48,251 40,953 46,364 59,200 ..
+New York 5,008 3,921 2,739 2,866 2,120 5,228 4,221 2,447 2,546 2,343 4,103 5,522 ..
+Other North America 0 0 0 0 0 0 0 1 0 0 0 0 ..
+Total North America 5,008 3,921 2,739 2,866 2,120 5,228 4,221 2,448 2,546 2,343 4,103 5,522 ..
+Dubai 24,284 19,916 18,861 21,197 19,374 27,349 23,029 19,055 19,029 17,503 19,215 24,993 ..
+Jeddah 3,606 2,276 1,910 2,411 2,694 4,334 4,174 2,507 2,212 3,896 2,653 2,964 ..
+Other Middle East 23,239 19,069 18,644 18,803 14,624 20,658 22,561 15,760 16,572 16,833 19,173 23,174 ..
+Total Middle East 51,129 41,261 39,415 42,411 36,692 52,341 49,764 37,322 37,813 38,232 41,041 51,131 ..
+Mumbai 5,640 6,180 5,072 4,653 4,005 5,099 7,394 7,422 7,938 6,922 8,220 7,632 ..
+Bangkok 625 740 873 912 1,114 1,582 1,412 1,296 0 0 0 0 ..
+Other Far East 2,855 3,267 3,250 2,556 2,825 3,485 4,471 5,027 6,804 4,755 5,660 6,919 ..
+Total Far East 9,120 10,187 9,195 8,121 7,944 10,166 13,277 13,745 14,742 11,677 13,880 14,551 ..
+Addis Ababa 15,759 13,324 13,644 15,198 16,893 18,825 14,576 14,346 16,032 13,585 15,738 16,735 ..
+Bujumbura 2,088 2,848 2,267 2,047 1,673 2,114 2,178 2,193 2,238 2,018 2,387 2,412 ..
+Dar-es-alaam 9,308 9,114 9,436 10,165 9,084 10,570 9,461 9,769 10,331 9,334 9,537 9,603 ..
+Entebbe 12,198 10,761 13,236 12,766 11,896 13,178 12,545 12,426 14,093 14,064 14,094 15,600 ..
+Kigali 8,185 7,741 7,243 7,601 6,546 9,688 7,070 6,999 7,747 7,109 7,760 9,283 ..
+Kinshasa 1,941 2,660 2,395 2,383 1,421 2,463 1,817 1,743 2,168 1,970 2,154 2,208 ..
+Other East & Central Africa 5,466 4,822 4,003 3,913 3,412 5,039 4,004 4,078 3,954 3,461 4,405 5,442 ..
+Total East & Central Africa 54,945 51,270 52,224 54,073 50,925 61,877 51,651 51,554 56,563 51,541 56,075 61,283 ..
+Mauritius 2,743 2,112 2,018 2,769 1,923 2,857 2,721 1,515 2,275 2,375 3,393 2,629 ..
+Seychelles 727 782 706 881 596 787 996 820 1,206 1,345 1,146 681 ..
+Zanzibar 8,553 9,696 8,180 9,014 8,626 9,513 10,105 12,657 10,437 6,745 7,226 7,684 ..
+Other Indian Ocean Islands 4,025 6,468 4,920 4,729 5,347 6,278 4,332 4,467 3,936 3,536 4,917 4,972 ..
+Total Indian Ocean Islands 4,887 6,240 6,720 17,393 16,492 19,435 18,154 19,459 17,854 14,001 16,682 15,966 ..
+Abidjan 1,182 832 1,043 959 752 1,063 1,041 1,112 1,639 1,166 1,458 1,639 ..
+Douala 174 868 735 744 559 829 881 751 859 1,033 924 758 ..
+Lagos 3,187 3,849 4,262 4,495 2,963 5,269 5,450 3,902 2,434 3,170 3,662 4,192 ..
+Accra 3,325 3,651 3,983 4,277 3,035 3,793 4,284 4,240 4,689 4,510 4,932 5,186 ..
+Other West Africa 31 0 49 12 0 0 12 5 0 14 20 6 ..
+Total West Africa 7,899 9,200 10,072 10,487 7,309 10,954 11,668 10,010 9,621 9,893 10,996 11,781 ..
+Johannesburg 10,368 10,021 11,111 11,210 10,001 15,612 11,888 11,066 13,626 12,069 13,619 15,723 ..
+Harare 2,269 2,921 3,263 3,256 2,909 3,653 3,133 2,881 3,426 3,594 3,412 3,258 ..
+Lilongwe 2,038 1,826 1,207 1,447 1,226 1,694 1,215 925 1,050 1,527 1,237 1,107 ..
+Lusaka 2,068 2,917 2,369 2,409 1,912 2,861 2,233 1,652 2,129 2,433 2,451 2,260 ..
+Cape Town 789 787 836 1,113 719 1,425 1,051 1,391 1,288 997 1,214 1,112 ..
+Other South Africa 3,291 3,174 3,992 4,132 3,269 4,563 4,031 3,565 4,005 4,094 4,740 4,973 ..
+Total Southern Africa 20,823 21,646 22,778 23,567 20,036 29,808 23,551 21,480 25,524 24,714 26,673 28,433 ..
+Cairo 3,663 3,195 3,023 2,903 3,628 4,329 3,843 3,492 3,087 2,428 3,693 3,258 ..
+Khartoum 63 262 370 292 176 235 412 366 438 111 24 22 ..
+Juba 4,022 3,755 3,971 3,919 3,689 6,040 3,856 3,494 3,955 4,022 3,919 4,274 ..
+Other North Africa 159 0 89 4 13 4 16 1 0 67 2 5 ..
+Total North Africa 7,907 7,212 7,453 7,118 7,506 10,608 8,127 7,353 7,480 6,628 7,638 7,559 ..
+Other International 7,624 6,749 7,507 5,422 6,509 8,014 7,379 6,792 8,299 6,318 7,569 8,108 ..
+Total International 219,381 206,791 202,959 219,355 198,166 264,022 243,657 219,848 228,693 206,300 231,021 263,534 ..
+Source: Kenya Airports Authority
+*Provisional
+.. Data not available
+39Table 19(c): New Motor Vehicle Registration
+Number
+2022 2023*
+Body Type Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul
+Saloons.......................................................... 7 08 5 51 4 98 6 09 5 77 8 85 4 65 2 92 3 15 2 66 4 58 .. ..
+Station Wagons............................................... 6 ,084 4 ,523 4 ,720 5 ,372 5 ,278 7 ,801 4 ,441 2 ,523 3 ,264 2 ,425 4 ,696 .. ..
+Vans............................................................... 2 86 5 13 5 66 9 98 7 98 7 32 5 91 5 73 2 24 1 33 2 58 .. ..
+Pick Ups......................................................... 7 96 2 69 3 64 2 52 3 55 4 30 4 13 2 84 5 83 7 06 7 30 .. ..
+Mini Buses...................................................... 8 1 7 9 9 0 1 06 1 39 1 12 6 1 1 28 1 39 1 35 9 3 .. ..
+Buses............................................................. 3 48 2 49 2 76 2 00 3 34 2 32 2 21 2 92 2 61 1 56 2 50 .. ..
+Lorries............................................................ 1 ,464 9 99 1 ,307 1 ,451 1 ,309 1 ,116 8 94 1 ,105 1 ,110 9 27 1 ,277 .. ..
+Trailers........................................................... 3 05 4 19 4 06 5 88 7 23 4 92 3 42 4 49 5 46 5 28 5 34 .. ..
+Motor Cycles.................................................. 8 ,687 6 ,258 1 0,071 1 2,256 5 ,243 8 ,353 9 ,009 6 ,460 7 ,140 5 ,050 3 ,244 .. ..
+Three Wheelers.............................................. 4 95 2 68 4 55 5 16 2 62 4 98 4 79 2 65 3 42 2 58 3 74 .. ..
+Wheeled Tractors........................................... 3 61 2 10 4 73 3 80 3 54 2 22 2 58 2 10 2 25 1 59 1 53 .. ..
+Others............................................................. 1,375 925 716 639 873 853 783 923 988 676 878 .. ..
+Totals............................................................ 20,990 15,263 19,942 23,367 16,245 21,726 17,957 13,504 15,137 11,419 12,945 .. ..
+Source: National Transport and Safety Authority
+* Provisional
+.. Data not available
+Table 19(d): Passenger and Cargo Movement on the Standard Gauge Railway
+PASSENGER FREIGHT
+2022 2023* 2022 2023*
+Month No. Passengers Revenue (KSh) No. Passengers Revenue (KSh) Tonnage Revenue (KSh) 1 Tonnage Revenue (KSh) 1
+January 160,053 1 76,370,640 2 47,011 2 62,169,500 477,247 9 66,804,389 5 43,189 1 ,107,569,456
+February 130,374 1 49,288,100 1 63,016 1 85,733,540 538,524 1 ,064,639,949 4 93,583 9 23,073,763
+March 228,353 2 43,613,780 1 87,479 2 12,950,757 520,203 1 ,051,062,325 5 41,125 1 ,126,004,560
+April 264,119 2 79,579,940 2 39,685 2 51,383,098 429,640 9 51,312,836 5 03,077 1 ,090,933,128
+May 180,702 2 04,124,500 2 14,050 2 34,920,149 495,619 1 ,013,027,042 5 51,055 1 ,281,854,407
+June 163,102 1 78,300,313 1 98,564 2 18,742,494 515,569 1 ,130,006,123 5 50,068 1 ,138,960,957
+July 228,007 2 53,997,710 .. .. 543,994 1 ,178,337,819 .. ..
+August 178,669 1 93,350,050 513,408 1 ,150,080,260
+September 209,084 2 28,532,337 517,300 1 ,080,372,778
+October 189,553 2 12,727,490 506,365 1 ,014,590,475
+November 193,661.00 2 20,216,560 514,770 1 ,028,277,042
+December 266,585.00 2 93,283,160 517,321 1 ,041,780,209
+TOTAL 2,392,262 2 ,633,384,580 1 ,249,805 1 ,365,899,538 6,089,959 1 2,670,291,245 3 ,182,097 6 ,668,396,269
+Source: Kenya Railways Corporation
+*Provisional
+1 Excludes deductions from discounts offered to customers
+.. Data not available
+40Table 19(e): Monthly Cargo Throughput at the port of Mombasa
+41
+Im p o rtsD
+ry G eneral-C ontainerizedD
+ry G eneral- C onventionalD
+ry B ulk1
+P .O .LO
+ther B ulk LiquidsS
+u b -To talE
+xp o rtsD
+ry G eneral-C ontainerizedD
+ry G eneral-C onventionalD
+ry B ulk1
+P .O .LB
+unkersO
+ther B ulk LiquidsS
+u b -To talT
+ranshipm entR
+estow sG
+ran d To talS
+ource: K enya P orts A uthority1R
+efers to P etroleum , O il and
+Lubricants
+Ju l
+800,151
+251,378
+342,054
+715,495
+89,489
+2,198,567
+399,557
+603
+10,550
+-
+587
+-
+411,297
+190,846
+8,405
+2,809,115
+A u g
+685,409
+203,338
+567,352
+496,008
+97,371
+2,049,478
+331,692
+6,981
+54,000
+6,869
+1,820
+-
+401,362
+148,791
+4,640
+2,604,271
+2022
+S ep O ct
+709,250 821,514
+187,379 235,375
+436,614 439,249
+903,285 437,272
+67,228 110,022
+2,303,756 2,043,432
+337,066 362,351
+712 802
+10,000 11,325
+- 5,960
+- 1,196
+24,139 -
+371,917 381,634
+144,277 206,744
+6,812 5,503
+2,826,762 2,637,313
+N o v
+889,244
+192,424
+294,451
+559,772
+92,341
+2,028,233
+359,009
+8,260
+75,935
+3,000
+1,000
+-
+447,204
+174,326
+8,639
+2,658,402
+D ec
+828,200
+154,728
+572,702
+727,027
+84,186
+2,366,843
+334,047
+3,398
+10,000
+5,099
+756
+-
+353,300
+125,976
+9,406
+2,855,525
+Jan
+750,754
+162,166
+401,838
+686,641
+103,355
+2,104,754
+344,512
+435
+31,580
+-
+-
+-
+376,527
+173,590
+6,342
+2,661,213
+F eb
+848,690
+220,307
+461,954
+928,200
+53,572
+2,512,723
+328,181
+2,109
+12,120
+-
+502
+-
+342,912
+189,838
+12,668
+3,058,141
+M ar
+974,615
+133,828
+768,750
+577,803
+71,740
+2,526,736
+405,294
+2,792
+70,140
+-
+-
+3,358
+481,584
+212,074
+12,074
+3,232,468
+2023
+A p r
+974,615
+133,828
+768,750
+577,803
+71,740
+2,526,736
+383,980
+16,737
+5,347
+-
+913
+3,099
+410,076
+179,646
+8,308
+3,124,766
+M ay
+1,093,220
+186,581
+505,278
+701,926
+116,805
+2,603,810
+437,183
+4,571
+11,710
+-
+-
+2,500
+455,964
+207,992
+9,302
+3,277,068
+M e
+Ju n
+898,282
+224,504
+521,052
+584,531
+59,064
+2,287,433
+403,547
+4,998
+56,010
+-
+-
+-
+464,555
+110,327
+7,028
+2,869,343
+tric to n n e s
+Ju l
+947,164
+126,704
+469,023
+574,519
+72,315
+2,189,725
+433,412
+5,341
+25,130
+-
+408
+-
+464,291
+131,168
+11,352
+2,796,536
+Table 19(f): Metre Gauge Railway (MGR) passenger and revenue
+P assen g ersN
+airobi - K ahaw aN
+airobi - R uiruN
+airobi - E m bakasiN
+airobi - K ikuyu - Lim uruN
+airobi - A thi R iver - LukenyaN
+airobi - S yokim auS
+G R LinkD
+M U N airobi- S yokim auD
+M U N airobi- E m bakasiB
+R TN
+anyuki T rainK
+isum u T rainS
+pecial T rain
+To tal
+P assen g er R even u e (K S h )N
+airobi - K ahaw aN
+airobi - R uiruN
+airobi - E m bakasiN
+airobi - K ikuyu - Lim uruN
+airobi - A thi R iver - LukenyaN
+airobi - S yokim auS
+G R LinkD
+M U N airobi- S yokim auD
+M U N airobi- E m bakasiB
+R TN
+anyuki T rainK
+isum u T rainS
+pecial T rain
+To talS
+ource: K enya R ailw ays C orporation*P
+rovisional..
+D ata not available
+Ju l11,85673,78862,48822,98216,9375,86943,0264,7929,69315,4782,3821,7510271,042
+470,3152,984,2302,499,000831,7201,283,487358,7032,476,870492,400980,200626,790322,7501,239,585014,566,050
+A u g10,28260,66749,71118,94912,3214,65644,0974,1317,39514,6801,9182,7160231,523
+408,3152,460,5951,989,495677,546932,640272,5452,556,010445,410740,500585,990291,1301,627,108012,987,284
+S ep14,19879,77664,49124,03711,6035,58447,5906,4678,55716,1772,6431,9800283,103
+566,1003,214,7252,577,885875,985865,675321,6102,872,160686,420856,050640,850328,6001,342,250015,148,310
+O ct12,43179,99663,76025,30811,3274,76339,0754,7079,03015,7102,1601,4860269,753
+497,8053,234,9502,543,850920,110813,485293,3802,395,967529,770892,904619,834466,7001,005,494014,214,249
+N o v13,22487,40671,51428,54611,9205,10343,8325,5959,02519,5252,4722,0200300,182
+529,1353,548,0852,859,4351,053,090858,793311,4572,524,098628,557902,400772,990347,1101,089,790015,424,940
+D ec8,89749,09038,91316,6226,0572,86350,7962,6825,60719,8307,54710,9610219,865
+352,1951,973,6651,556,375607,810445,770150,8902,850,090271,250568,700554,5101,084,3706,796,290017,211,915
+Jan13,38169,14453,36223,9029,1124,58550,0953,6707,19016,89610,7336,7840268,854
+531,0102,791,8502,135,090872,665672,130264,0752,895,100424,660719,920659,7801,542,2703,623,610017,132,160
+2023*
+F eb13,08679,20464,23628,68910,8275,54738,0112,3007,49617,7724,7762,856350274,800
+523,5603,205,8152,569,1101,043,470743,340315,2812,096,690254,600749,600705,160612,2301,527,800291,54314,638,199
+M ar11,07182,99363,62728,98011,5958,03242,62008,83118,1924,9012,7270283,569
+440,0003,362,7452,504,7901,052,155800,560449,1002,131,9000889,900725,520691,8001,540,230014,588,700
+A p r10,35963,46349,53422,6348,6126,39845,04906,76214,6506,8493,3460237,656
+413,7952,573,9051,982,295822,450598,100351,5002,260,4250676,300572,660996,7302,051,340013,299,500
+M ay13,97490,76368,33430,72612,4927,66447,10509,09619,0986,6602,1320308,044
+556,8653,661,3752,730,3251,116,115859,540421,0652,357,2100906,600757,500949,555826,550015,142,700
+Ju n13,28688,97061,79031,62511,41310,82842,21307,76315,5625,4772,3950291,322
+547,8903,603,7702,468,8701,148,585771,190599,1852,175,3000776,500633,800841,2701,330,850014,897,210
+N um ber
+Ju l............................................................
